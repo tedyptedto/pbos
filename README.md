@@ -1,257 +1,92 @@
 # pbos
 PassivBot Strategies
 
-/dotcom87/pb-configs-main/v5.7.0/single/CHZUSDT/config.json
- {'starting_balane': 825, 'start_date': '2016-01-01,', 'end_date': '2022-07-19,', 'long': True, 'long_gridspan': '22%', 'long_we': 0.2, 'Long_Average daily gain': '0.0688%', 'Long_Total gain': '47.56%', 'short': True, 'short_gridspan': '26%', 'short_we': 0.1, 'Short_Average daily gain': '0.0266%', 'Short_Total gain': '16.14%'}
-
-/dotcom87/pb-configs-main/v5.7.0/single/ENJUSDT/config.json
- {'starting_balane': 825, 'start_date': '2016-01-01,', 'end_date': '2022-07-19,', 'long': True, 'long_gridspan': '19%', 'long_we': 0.2, 'Long_Average daily gain': '0.0564%', 'Long_Total gain': '46.68%', 'short': True, 'short_gridspan': '30%', 'short_we': 0.1, 'Short_Average daily gain': '0.0235%', 'Short_Total gain': '17.57%'}
-
-/dotcom87/pb-configs-main/v5.7.0/single/GRTUSDT/config.json
- {'starting_balane': 825, 'start_date': '2016-01-01,', 'end_date': '2022-07-19,', 'long': True, 'long_gridspan': '17%', 'long_we': 0.2, 'Long_Average daily gain': '0.0789%', 'Long_Total gain': '60.61%', 'short': True, 'short_gridspan': '20%', 'short_we': 0.1, 'Short_Average daily gain': '0.038%', 'Short_Total gain': '25.31%'}
-
-/dotcom87/pb-configs-main/v5.7.0/single/CHRUSDT/config.json
- {'starting_balane': 825, 'start_date': '2016-01-01,', 'end_date': '2022-07-19,', 'long': True, 'long_gridspan': '19%', 'long_we': 0.2, 'Long_Average daily gain': '0.0608%', 'Long_Total gain': '36.34%', 'short': True, 'short_gridspan': '34%', 'short_we': 0.1, 'Short_Average daily gain': '0.0235%', 'Short_Total gain': '13.48%'}
-
-/dotcom87/pb-configs-main/v5.7.0/single/MANAUSDT/config.json
- {'starting_balane': 825, 'start_date': '2016-01-01,', 'end_date': '2022-07-19,', 'long': True, 'long_gridspan': '16%', 'long_we': 0.2, 'Long_Average daily gain': '0.0763%', 'Long_Total gain': '47.47%', 'short': True, 'short_gridspan': '20%', 'short_we': 0.1, 'Short_Average daily gain': '0.0288%', 'Short_Total gain': '15.84%'}
-
-/dotcom87/pb-configs-main/v5.7.0/single/VETUSDT/config.json
- {'starting_balane': 825, 'start_date': '2016-01-01,', 'end_date': '2022-07-19,', 'long': True, 'long_gridspan': '28%', 'long_we': 0.2, 'Long_Average daily gain': '0.0481%', 'Long_Total gain': '53.89%', 'short': True, 'short_gridspan': '24%', 'short_we': 0.1, 'Short_Average daily gain': '0.0146%', 'Short_Total gain': '14.08%'}
-
-/dotcom87/pb-configs-main/v5.7.0/single/CRVUSDT/config.json
- {'starting_balane': 825, 'start_date': '2016-01-01,', 'end_date': '2022-07-19,', 'long': True, 'long_gridspan': '23%', 'long_we': 0.2, 'Long_Average daily gain': '0.032%', 'Long_Total gain': '25.52%', 'short': True, 'short_gridspan': '28%', 'short_we': 0.1, 'Short_Average daily gain': '0.0256%', 'Short_Total gain': '22.82%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/ENJUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '35%', 'long_we': 1, 'Long_Average daily gain': '0.323%', 'Long_Total gain': '700.8%', 'short': True, 'short_gridspan': '25%', 'short_we': 0.1, 'Short_Average daily gain': '0.0264%', 'Short_Total gain': '19.16%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/DYDXUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '22%', 'long_we': 1, 'Long_Average daily gain': '0.353%', 'Long_Total gain': '195.2%', 'short': True, 'short_gridspan': '12%', 'short_we': 0.1, 'Short_Average daily gain': '0.0737%', 'Short_Total gain': '38.93%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/SANDUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '38%', 'long_we': 1, 'Long_Average daily gain': '0.439%', 'Long_Total gain': '869.1%', 'short': True, 'short_gridspan': '36%', 'short_we': 0.1, 'Short_Average daily gain': '0.0224%', 'Short_Total gain': '13.07%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/EOSUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '22%', 'long_we': 1, 'Long_Average daily gain': '0.201%', 'Long_Total gain': '498.2%', 'short': True, 'short_gridspan': '14%', 'short_we': 0.1, 'Short_Average daily gain': '0.0323%', 'Short_Total gain': '33.59%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/ADAUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '28%', 'long_we': 1, 'Long_Average daily gain': '0.214%', 'Long_Total gain': '552.5%', 'short': True, 'short_gridspan': '23%', 'short_we': 0.1, 'Short_Average daily gain': '0.0115%', 'Short_Total gain': '11.11%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/MANAUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.3%', 'Long_Total gain': '300.5%', 'short': True, 'short_gridspan': '33%', 'short_we': 0.1, 'Short_Average daily gain': '0.0738%', 'Short_Total gain': '22.32%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/LINKUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '16%', 'long_we': 1, 'Long_Average daily gain': '0.215%', 'Long_Total gain': '612.8%', 'short': True, 'short_gridspan': '24%', 'short_we': 0.1, 'Short_Average daily gain': '0.0183%', 'Short_Total gain': '18.44%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/DOTUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '32%', 'long_we': 1, 'Long_Average daily gain': '0.221%', 'Long_Total gain': '349.5%', 'short': True, 'short_gridspan': '12%', 'short_we': 0.1, 'Short_Average daily gain': '0.218%', 'Short_Total gain': '12.36%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/NEARUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '15%', 'long_we': 1, 'Long_Average daily gain': '0.454%', 'Long_Total gain': '1669.0%', 'short': True, 'short_gridspan': '34%', 'short_we': 0.1, 'Short_Average daily gain': '0.0244%', 'Short_Total gain': '17.05%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/SOLUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '27%', 'long_we': 1, 'Long_Average daily gain': '0.284%', 'Long_Total gain': '535.5%', 'short': True, 'short_gridspan': '57%', 'short_we': 0.1, 'Short_Average daily gain': '0.0258%', 'Short_Total gain': '10.3%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/ETCUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '31%', 'long_we': 1, 'Long_Average daily gain': '0.215%', 'Long_Total gain': '564.8%', 'short': True, 'short_gridspan': '36%', 'short_we': 0.1, 'Short_Average daily gain': '0.00717%', 'Short_Total gain': '11.36%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.5/MATICUSDT_20220723093109_e541e/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-23,', 'long': True, 'long_gridspan': '29%', 'long_we': 1, 'Long_Average daily gain': '0.392%', 'Long_Total gain': '1009.0%', 'short': True, 'short_gridspan': '46%', 'short_we': 0.1, 'Short_Average daily gain': '0.0191%', 'Short_Total gain': '14.58%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/MANAUSDT_20220713075744_02a71/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '15%', 'long_we': 1, 'Long_Average daily gain': '0.338%', 'Long_Total gain': '383.2%', 'short': True, 'short_gridspan': '8%', 'short_we': 0.1, 'Short_Average daily gain': '0.0363%', 'Short_Total gain': '19.5%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SOLUSDT_20220713075744_02a71/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '29%', 'long_we': 1, 'Long_Average daily gain': '0.267%', 'Long_Total gain': '418.2%', 'short': True, 'short_gridspan': '48%', 'short_we': 0.1, 'Short_Average daily gain': '0.0289%', 'Short_Total gain': '9.617%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SANDUSDT_20220715083342_969fe/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '36%', 'long_we': 1, 'Long_Average daily gain': '0.314%', 'Long_Total gain': '411.0%', 'short': True, 'short_gridspan': '38%', 'short_we': 0.1, 'Short_Average daily gain': '0.0221%', 'Short_Total gain': '12.52%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/XMRUSDT_20220716051312_e271d/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 0.1, 'Long_Average daily gain': '0.0159%', 'Long_Total gain': '15.63%', 'short': True, 'short_gridspan': '11%', 'short_we': 0.1, 'Short_Average daily gain': '0.0208%', 'Short_Total gain': '21.12%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/DOTUSDT_20220716222523_a0560/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 0.1, 'Long_Average daily gain': '0.0228%', 'Long_Total gain': '17.73%', 'short': True, 'short_gridspan': '15%', 'short_we': 0.1, 'Short_Average daily gain': '0.0191%', 'Short_Total gain': '14.57%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/ADAUSDT_20220715083342_969fe/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '31%', 'long_we': 1, 'Long_Average daily gain': '0.158%', 'Long_Total gain': '296.8%', 'short': True, 'short_gridspan': '51%', 'short_we': 0.1, 'Short_Average daily gain': '0.0114%', 'Short_Total gain': '10.78%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/DOTUSDT_20220717071307_ad2c7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.3%', 'Long_Total gain': '679.6%', 'short': True, 'short_gridspan': '17%', 'short_we': 0.1, 'Short_Average daily gain': '0.0232%', 'Short_Total gain': '17.98%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SOLUSDT_20220713182404_b9c8f/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '16%', 'long_we': 1, 'Long_Average daily gain': '0.476%', 'Long_Total gain': '2141.0%', 'short': True, 'short_gridspan': '43%', 'short_we': 0.1, 'Short_Average daily gain': '0.032%', 'Short_Total gain': '11.57%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/ENJUSDT_20220713182404_b9c8f/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '34%', 'long_we': 1, 'Long_Average daily gain': '0.416%', 'Long_Total gain': '1197.0%', 'short': True, 'short_gridspan': '27%', 'short_we': 0.1, 'Short_Average daily gain': '0.0274%', 'Short_Total gain': '19.58%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/LINKUSDT_20220713182404_b9c8f/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '40%', 'long_we': 1, 'Long_Average daily gain': '0.181%', 'Long_Total gain': '371.4%', 'short': True, 'short_gridspan': '24%', 'short_we': 0.1, 'Short_Average daily gain': '0.016%', 'Short_Total gain': '15.65%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/NEARUSDT_20220719121510_7aed7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.296%', 'Long_Total gain': '555.6%', 'short': True, 'short_gridspan': '19%', 'short_we': 0.1, 'Short_Average daily gain': '0.0271%', 'Short_Total gain': '19.43%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/ENJUSDT_20220713075744_02a71/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '28%', 'long_we': 1, 'Long_Average daily gain': '0.199%', 'Long_Total gain': '238.8%', 'short': True, 'short_gridspan': '29%', 'short_we': 0.1, 'Short_Average daily gain': '0.0207%', 'Short_Total gain': '14.45%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/DOTUSDT_20220715022104_72ba6/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '31%', 'long_we': 1, 'Long_Average daily gain': '0.233%', 'Long_Total gain': '375.3%', 'short': True, 'short_gridspan': '20%', 'short_we': 0.1, 'Short_Average daily gain': '0.0146%', 'Short_Total gain': '10.56%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/MATICUSDT_20220713075744_02a71/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '22%', 'long_we': 1, 'Long_Average daily gain': '0.442%', 'Long_Total gain': '1186.0%', 'short': True, 'short_gridspan': '49%', 'short_we': 0.1, 'Short_Average daily gain': '0.0146%', 'Short_Total gain': '9.589%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/DOTUSDT_20220720232313_ee288/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.273%', 'Long_Total gain': '528.1%', 'short': True, 'short_gridspan': '15%', 'short_we': 0.43955337035345865, 'Short_Average daily gain': '0.101%', 'Short_Total gain': '100.4%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/MANAUSDT_20220715083342_969fe/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '36%', 'long_we': 1, 'Long_Average daily gain': '0.354%', 'Long_Total gain': '415.1%', 'short': True, 'short_gridspan': '15%', 'short_we': 0.1, 'Short_Average daily gain': '0.0516%', 'Short_Total gain': '28.68%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SANDUSDT_20220715022104_72ba6/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '37%', 'long_we': 1, 'Long_Average daily gain': '0.447%', 'Long_Total gain': '855.4%', 'short': True, 'short_gridspan': '35%', 'short_we': 0.1, 'Short_Average daily gain': '0.019%', 'Short_Total gain': '10.71%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/MANAUSDT_20220717071307_ad2c7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.486%', 'Long_Total gain': '992.6%', 'short': True, 'short_gridspan': '11%', 'short_we': 0.1, 'Short_Average daily gain': '0.0478%', 'Short_Total gain': '27.1%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/MATICUSDT_20220718170718_17e47/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '12%', 'long_we': 1, 'Long_Average daily gain': '0.733%', 'Long_Total gain': '5021.0%', 'short': True, 'short_gridspan': '18%', 'short_we': 0.1, 'Short_Average daily gain': '0.0215%', 'Short_Total gain': '15.01%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SOLUSDT_20220717071307_ad2c7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.488%', 'Long_Total gain': '2356.0%', 'short': True, 'short_gridspan': '17%', 'short_we': 0.1, 'Short_Average daily gain': '0.0432%', 'Short_Total gain': '22.04%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/ADAUSDT_20220713182404_b9c8f/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '30%', 'long_we': 1, 'Long_Average daily gain': '0.2%', 'Long_Total gain': '471.8%', 'short': True, 'short_gridspan': '27%', 'short_we': 0.1, 'Short_Average daily gain': '0.0133%', 'Short_Total gain': '12.62%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/MANAUSDT_20220713182404_b9c8f/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '12%', 'long_we': 1, 'Long_Average daily gain': '0.454%', 'Long_Total gain': '826.6%', 'short': True, 'short_gridspan': '10%', 'short_we': 0.1, 'Short_Average daily gain': '0.0434%', 'Short_Total gain': '23.89%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SOLUSDT_20220715083342_969fe/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '16%', 'long_we': 1, 'Long_Average daily gain': '0.476%', 'Long_Total gain': '2027.0%', 'short': True, 'short_gridspan': '56%', 'short_we': 0.1, 'Short_Average daily gain': '0.0421%', 'Short_Total gain': '11.88%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SANDUSDT_20220713151530_949a2/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '26%', 'long_we': 1, 'Long_Average daily gain': '0.341%', 'Long_Total gain': '489.4%', 'short': True, 'short_gridspan': '34%', 'short_we': 0.1, 'Short_Average daily gain': '0.026%', 'Short_Total gain': '14.88%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SANDUSDT_20220713075744_02a71/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '30%', 'long_we': 1, 'Long_Average daily gain': '0.329%', 'Long_Total gain': '406.9%', 'short': True, 'short_gridspan': '34%', 'short_we': 0.1, 'Short_Average daily gain': '0.0207%', 'Short_Total gain': '11.52%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SANDUSDT_20220717071307_ad2c7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.316%', 'Long_Total gain': '426.3%', 'short': True, 'short_gridspan': '14%', 'short_we': 0.1, 'Short_Average daily gain': '0.0255%', 'Short_Total gain': '15.02%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/MATICUSDT_20220713182404_b9c8f/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '23%', 'long_we': 1, 'Long_Average daily gain': '0.49%', 'Long_Total gain': '1821.0%', 'short': True, 'short_gridspan': '48%', 'short_we': 0.1, 'Short_Average daily gain': '0.0239%', 'Short_Total gain': '16.17%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/LINKUSDT_20220713075744_02a71/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '15%', 'long_we': 1, 'Long_Average daily gain': '0.234%', 'Long_Total gain': '641.8%', 'short': True, 'short_gridspan': '26%', 'short_we': 0.1, 'Short_Average daily gain': '0.0177%', 'Short_Total gain': '17.61%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/XLMUSDT_20220719121510_7aed7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '13%', 'long_we': 1, 'Long_Average daily gain': '0.357%', 'Long_Total gain': '972.9%', 'short': True, 'short_gridspan': '11%', 'short_we': 0.1, 'Short_Average daily gain': '0.0248%', 'Short_Total gain': '25.63%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/MANAUSDT_20220716051312_e271d/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '13%', 'long_we': 0.1, 'Long_Average daily gain': '0.0379%', 'Long_Total gain': '21.07%', 'short': True, 'short_gridspan': '10%', 'short_we': 0.1, 'Short_Average daily gain': '0.0475%', 'Short_Total gain': '26.52%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/XMRUSDT_20220717071307_ad2c7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.257%', 'Long_Total gain': '632.7%', 'short': True, 'short_gridspan': '13%', 'short_we': 0.1, 'Short_Average daily gain': '0.0208%', 'Short_Total gain': '21.05%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/DOTUSDT_20220713182404_b9c8f/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '32%', 'long_we': 1, 'Long_Average daily gain': '0.227%', 'Long_Total gain': '353.8%', 'short': True, 'short_gridspan': '20%', 'short_we': 0.1, 'Short_Average daily gain': '0.0142%', 'Short_Total gain': '10.34%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SANDUSDT_20220716051312_e271d/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 0.1, 'Long_Average daily gain': '0.0308%', 'Long_Total gain': '18.79%', 'short': True, 'short_gridspan': '14%', 'short_we': 0.1, 'Short_Average daily gain': '0.0234%', 'Short_Total gain': '13.74%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/GMTUSDT_20220719121510_7aed7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.852%', 'Long_Total gain': '461.4%', 'short': True, 'short_gridspan': '13%', 'short_we': 0.1, 'Short_Average daily gain': '0.0905%', 'Short_Total gain': '12.64%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/DYDXUSDT_20220718170718_17e47/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.289%', 'Long_Total gain': '141.1%', 'short': True, 'short_gridspan': '13%', 'short_we': 0.1, 'Short_Average daily gain': '0.0398%', 'Short_Total gain': '13.37%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/HNTUSDT_20220719121510_7aed7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.47%', 'Long_Total gain': '1739.0%', 'short': True, 'short_gridspan': '16%', 'short_we': 0.1, 'Short_Average daily gain': '0.0262%', 'Short_Total gain': '18.99%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SOLUSDT_20220716051312_e271d/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '16%', 'long_we': 1, 'Long_Average daily gain': '0.476%', 'Long_Total gain': '2027.0%', 'short': True, 'short_gridspan': '56%', 'short_we': 0.1, 'Short_Average daily gain': '0.0421%', 'Short_Total gain': '11.88%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/DOTUSDT_20220716051312_e271d/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 0.1, 'Long_Average daily gain': '0.0257%', 'Long_Total gain': '20.18%', 'short': True, 'short_gridspan': '17%', 'short_we': 0.1, 'Short_Average daily gain': '0.0202%', 'Short_Total gain': '15.61%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/MANAUSDT_20220716222523_a0560/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 0.1, 'Long_Average daily gain': '0.0455%', 'Long_Total gain': '26.93%', 'short': True, 'short_gridspan': '10%', 'short_we': 0.1, 'Short_Average daily gain': '0.0452%', 'Short_Total gain': '25.32%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/ADAUSDT_20220716051312_e271d/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '12%', 'long_we': 0.1, 'Long_Average daily gain': '0.019%', 'Long_Total gain': '19.36%', 'short': True, 'short_gridspan': '13%', 'short_we': 0.1, 'Short_Average daily gain': '0.0129%', 'Short_Total gain': '12.6%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/ETCUSDT_20220719121510_7aed7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '12%', 'long_we': 1, 'Long_Average daily gain': '0.248%', 'Long_Total gain': '769.3%', 'short': True, 'short_gridspan': '13%', 'short_we': 0.1, 'Short_Average daily gain': '0.0163%', 'Short_Total gain': '16.55%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/LINKUSDT_20220718170718_17e47/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '12%', 'long_we': 1, 'Long_Average daily gain': '0.298%', 'Long_Total gain': '1265.0%', 'short': True, 'short_gridspan': '10%', 'short_we': 0.1, 'Short_Average daily gain': '0.0184%', 'Short_Total gain': '19.06%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/ENJUSDT_20220718170718_17e47/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '12%', 'long_we': 1, 'Long_Average daily gain': '0.673%', 'Long_Total gain': '4639.0%', 'short': True, 'short_gridspan': '18%', 'short_we': 0.1, 'Short_Average daily gain': '0.0261%', 'Short_Total gain': '19.12%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/ADAUSDT_20220717071307_ad2c7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '11%', 'long_we': 1, 'Long_Average daily gain': '0.298%', 'Long_Total gain': '1064.0%', 'short': True, 'short_gridspan': '15%', 'short_we': 0.1, 'Short_Average daily gain': '0.0109%', 'Short_Total gain': '10.57%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/DOTUSDT_20220713075744_02a71/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '16%', 'long_we': 1, 'Long_Average daily gain': '0.158%', 'Long_Total gain': '197.1%', 'short': True, 'short_gridspan': '33%', 'short_we': 0.1, 'Short_Average daily gain': '0.00649%', 'Short_Total gain': '4.653%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/EOSUSDT_20220719121510_7aed7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.104%', 'Long_Total gain': '149.7%', 'short': True, 'short_gridspan': '17%', 'short_we': 0.1, 'Short_Average daily gain': '0.0163%', 'Short_Total gain': '16.29%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/ADAUSDT_20220713075744_02a71/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '28%', 'long_we': 1, 'Long_Average daily gain': '0.231%', 'Long_Total gain': '529.6%', 'short': True, 'short_gridspan': '51%', 'short_we': 0.1, 'Short_Average daily gain': '0.00698%', 'Short_Total gain': '6.463%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/XRPUSDT_20220719121510_7aed7/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '15%', 'long_we': 1, 'Long_Average daily gain': '0.308%', 'Long_Total gain': '1497.0%', 'short': True, 'short_gridspan': '11%', 'short_we': 0.1, 'Short_Average daily gain': '0.0192%', 'Short_Total gain': '19.9%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SANDUSDT_20220713182404_b9c8f/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '39%', 'long_we': 1, 'Long_Average daily gain': '0.417%', 'Long_Total gain': '736.7%', 'short': True, 'short_gridspan': '36%', 'short_we': 0.1, 'Short_Average daily gain': '0.0275%', 'Short_Total gain': '15.81%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/SANDUSDT_20220716222523_a0560/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 0.1, 'Long_Average daily gain': '0.0337%', 'Long_Total gain': '20.66%', 'short': True, 'short_gridspan': '19%', 'short_we': 0.1, 'Short_Average daily gain': '0.0239%', 'Short_Total gain': '13.91%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/5.7.0/DOTUSDT_20220715083342_969fe/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '17%', 'long_we': 1, 'Long_Average daily gain': '0.306%', 'Long_Total gain': '733.0%', 'short': True, 'short_gridspan': '22%', 'short_we': 0.1, 'Short_Average daily gain': '0.0184%', 'Short_Total gain': '13.7%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/XLMUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '13%', 'long_we': 1, 'Long_Average daily gain': '0.397%', 'Long_Total gain': '1083.0%', 'short': True, 'short_gridspan': '36%', 'short_we': 0.15060714111893353, 'Short_Average daily gain': '0.0171%', 'Short_Total gain': '16.88%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/SOLUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.449%', 'Long_Total gain': '1814.0%', 'short': True, 'short_gridspan': '53%', 'short_we': 0.11497158432021455, 'Short_Average daily gain': '0.0442%', 'Short_Total gain': '12.87%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/DOTUSDT_20220723033310_f0eb5/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '11%', 'long_we': 1, 'Long_Average daily gain': '0.306%', 'Long_Total gain': '706.8%', 'short': True, 'short_gridspan': '26%', 'short_we': 0.16950720884308634, 'Short_Average daily gain': '0.0258%', 'Short_Total gain': '19.42%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/SANDUSDT_20220723033310_f0eb5/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '13%', 'long_we': 1, 'Long_Average daily gain': '0.579%', 'Long_Total gain': '1583.0%', 'short': True, 'short_gridspan': '37%', 'short_we': 0.18583326866130684, 'Short_Average daily gain': '0.0389%', 'Short_Total gain': '23.01%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/ADAUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '11%', 'long_we': 1, 'Long_Average daily gain': '0.298%', 'Long_Total gain': '925.6%', 'short': True, 'short_gridspan': '29%', 'short_we': 0.15342428316489223, 'Short_Average daily gain': '0.0196%', 'Short_Total gain': '19.06%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/MATICUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '13%', 'long_we': 1, 'Long_Average daily gain': '0.658%', 'Long_Total gain': '3282.0%', 'short': True, 'short_gridspan': '47%', 'short_we': 0.19086967130686328, 'Short_Average daily gain': '0.038%', 'Short_Total gain': '27.17%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/NEARUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.313%', 'Long_Total gain': '627.3%', 'short': True, 'short_gridspan': '36%', 'short_we': 0.16381975550999361, 'Short_Average daily gain': '0.0438%', 'Short_Total gain': '31.71%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/HNTUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.447%', 'Long_Total gain': '1637.0%', 'short': True, 'short_gridspan': '55%', 'short_we': 0.15780581761845863, 'Short_Average daily gain': '0.0352%', 'Short_Total gain': '25.49%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/GMTUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '1.01%', 'Long_Total gain': '245.0%', 'short': True, 'short_gridspan': '26%', 'short_we': 0.11513108528013757, 'Short_Average daily gain': '0.118%', 'Short_Total gain': '12.15%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/LINKUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '12%', 'long_we': 1, 'Long_Average daily gain': '0.307%', 'Long_Total gain': '1394.0%', 'short': True, 'short_gridspan': '22%', 'short_we': 0.19539777354420498, 'Short_Average daily gain': '0.0366%', 'Short_Total gain': '39.19%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/ENJUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '12%', 'long_we': 1, 'Long_Average daily gain': '0.492%', 'Long_Total gain': '2089.0%', 'short': True, 'short_gridspan': '29%', 'short_we': 0.1693705736711824, 'Short_Average daily gain': '0.0472%', 'Short_Total gain': '35.8%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/MANAUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.374%', 'Long_Total gain': '480.9%', 'short': True, 'short_gridspan': '15%', 'short_we': 0.10900483827687124, 'Short_Average daily gain': '0.0417%', 'Short_Total gain': '22.84%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/XMRUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '15%', 'long_we': 1, 'Long_Average daily gain': '0.122%', 'Long_Total gain': '198.2%', 'short': True, 'short_gridspan': '15%', 'short_we': 0.156160440022914, 'Short_Average daily gain': '0.036%', 'Short_Total gain': '37.8%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/ETCUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '14%', 'long_we': 1, 'Long_Average daily gain': '0.263%', 'Long_Total gain': '889.6%', 'short': True, 'short_gridspan': '32%', 'short_we': 0.18591297691722505, 'Short_Average daily gain': '0.0229%', 'Short_Total gain': '23.29%'}
-
-/flyingtoaster/passivbot_v5.7.1-main/configs/live/PBSO/1.4/DYDXUSDT_20220721074803_ad155/config.json
- {'starting_balane': 1500, 'start_date': '2016-01-01,', 'end_date': '2022-07-11,', 'long': True, 'long_gridspan': '13%', 'long_we': 1, 'Long_Average daily gain': '0.434%', 'Long_Total gain': '248.3%', 'short': True, 'short_gridspan': '18%', 'short_we': 0.1662625973871446, 'Short_Average daily gain': '0.0912%', 'Short_Total gain': '50.14%'}
++----+-------------------+--------------+-------------+--------+-----------------+-----------+---------------------------+-------------------+---------+------------------+------------+----------------------------+--------------------+
+|    |   starting_balane | start_date   | end_date    | long   | long_gridspan   |   long_we | Long_Average daily gain   | Long_Total gain   | short   | short_gridspan   |   short_we | Short_Average daily gain   | Short_Total gain   |
+|----+-------------------+--------------+-------------+--------+-----------------+-----------+---------------------------+-------------------+---------+------------------+------------+----------------------------+--------------------|
+| 78 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 1.01%                     | 245.0%            | True    | 26%              |   0.115131 | 0.118%                     | 12.15%             |
+| 52 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.852%                    | 461.4%            | True    | 13%              |   0.1      | 0.0905%                    | 12.64%             |
+| 37 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 12%             |       1   | 0.733%                    | 5021.0%           | True    | 18%              |   0.1      | 0.0215%                    | 15.01%             |
+| 61 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 12%             |       1   | 0.673%                    | 4639.0%           | True    | 18%              |   0.1      | 0.0261%                    | 19.12%             |
+| 75 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 13%             |       1   | 0.658%                    | 3282.0%           | True    | 47%              |   0.19087  | 0.038%                     | 27.17%             |
+| 73 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 13%             |       1   | 0.579%                    | 1583.0%           | True    | 37%              |   0.185833 | 0.0389%                    | 23.01%             |
+| 80 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 12%             |       1   | 0.492%                    | 2089.0%           | True    | 29%              |   0.169371 | 0.0472%                    | 35.8%              |
+| 45 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 23%             |       1   | 0.49%                     | 1821.0%           | True    | 48%              |   0.1      | 0.0239%                    | 16.17%             |
+| 38 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.488%                    | 2356.0%           | True    | 17%              |   0.1      | 0.0432%                    | 22.04%             |
+| 36 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.486%                    | 992.6%            | True    | 11%              |   0.1      | 0.0478%                    | 27.1%              |
+| 26 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 16%             |       1   | 0.476%                    | 2141.0%           | True    | 43%              |   0.1      | 0.032%                     | 11.57%             |
+| 41 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 16%             |       1   | 0.476%                    | 2027.0%           | True    | 56%              |   0.1      | 0.0421%                    | 11.88%             |
+| 55 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 16%             |       1   | 0.476%                    | 2027.0%           | True    | 56%              |   0.1      | 0.0421%                    | 11.88%             |
+| 54 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.47%                     | 1739.0%           | True    | 16%              |   0.1      | 0.0262%                    | 18.99%             |
+| 40 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 12%             |       1   | 0.454%                    | 826.6%            | True    | 10%              |   0.1      | 0.0434%                    | 23.89%             |
+| 15 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 15%             |       1   | 0.454%                    | 1669.0%           | True    | 34%              |   0.1      | 0.0244%                    | 17.05%             |
+| 71 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.449%                    | 1814.0%           | True    | 53%              |   0.114972 | 0.0442%                    | 12.87%             |
+| 77 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.447%                    | 1637.0%           | True    | 55%              |   0.157806 | 0.0352%                    | 25.49%             |
+| 35 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 37%             |       1   | 0.447%                    | 855.4%            | True    | 35%              |   0.1      | 0.019%                     | 10.71%             |
+| 32 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 22%             |       1   | 0.442%                    | 1186.0%           | True    | 49%              |   0.1      | 0.0146%                    | 9.589%             |
+|  9 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 38%             |       1   | 0.439%                    | 869.1%            | True    | 36%              |   0.1      | 0.0224%                    | 13.07%             |
+| 84 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 13%             |       1   | 0.434%                    | 248.3%            | True    | 18%              |   0.166263 | 0.0912%                    | 50.14%             |
+| 67 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 39%             |       1   | 0.417%                    | 736.7%            | True    | 36%              |   0.1      | 0.0275%                    | 15.81%             |
+| 27 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 34%             |       1   | 0.416%                    | 1197.0%           | True    | 27%              |   0.1      | 0.0274%                    | 19.58%             |
+| 70 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 13%             |       1   | 0.397%                    | 1083.0%           | True    | 36%              |   0.150607 | 0.0171%                    | 16.88%             |
+| 18 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 29%             |       1   | 0.392%                    | 1009.0%           | True    | 46%              |   0.1      | 0.0191%                    | 14.58%             |
+| 81 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.374%                    | 480.9%            | True    | 15%              |   0.109005 | 0.0417%                    | 22.84%             |
+| 47 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 13%             |       1   | 0.357%                    | 972.9%            | True    | 11%              |   0.1      | 0.0248%                    | 25.63%             |
+| 34 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 36%             |       1   | 0.354%                    | 415.1%            | True    | 15%              |   0.1      | 0.0516%                    | 28.68%             |
+|  8 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 22%             |       1   | 0.353%                    | 195.2%            | True    | 12%              |   0.1      | 0.0737%                    | 38.93%             |
+| 42 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 26%             |       1   | 0.341%                    | 489.4%            | True    | 34%              |   0.1      | 0.026%                     | 14.88%             |
+| 19 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 15%             |       1   | 0.338%                    | 383.2%            | True    | 8%               |   0.1      | 0.0363%                    | 19.5%              |
+| 43 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 30%             |       1   | 0.329%                    | 406.9%            | True    | 34%              |   0.1      | 0.0207%                    | 11.52%             |
+|  7 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 35%             |       1   | 0.323%                    | 700.8%            | True    | 25%              |   0.1      | 0.0264%                    | 19.16%             |
+| 44 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.316%                    | 426.3%            | True    | 14%              |   0.1      | 0.0255%                    | 15.02%             |
+| 21 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 36%             |       1   | 0.314%                    | 411.0%            | True    | 38%              |   0.1      | 0.0221%                    | 12.52%             |
+| 76 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.313%                    | 627.3%            | True    | 36%              |   0.16382  | 0.0438%                    | 31.71%             |
+| 66 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 15%             |       1   | 0.308%                    | 1497.0%           | True    | 11%              |   0.1      | 0.0192%                    | 19.9%              |
+| 79 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 12%             |       1   | 0.307%                    | 1394.0%           | True    | 22%              |   0.195398 | 0.0366%                    | 39.19%             |
+| 69 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 17%             |       1   | 0.306%                    | 733.0%            | True    | 22%              |   0.1      | 0.0184%                    | 13.7%              |
+| 72 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 11%             |       1   | 0.306%                    | 706.8%            | True    | 26%              |   0.169507 | 0.0258%                    | 19.42%             |
+| 25 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.3%                      | 679.6%            | True    | 17%              |   0.1      | 0.0232%                    | 17.98%             |
+| 12 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 14%             |       1   | 0.3%                      | 300.5%            | True    | 33%              |   0.1      | 0.0738%                    | 22.32%             |
+| 60 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 12%             |       1   | 0.298%                    | 1265.0%           | True    | 10%              |   0.1      | 0.0184%                    | 19.06%             |
+| 74 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 11%             |       1   | 0.298%                    | 925.6%            | True    | 29%              |   0.153424 | 0.0196%                    | 19.06%             |
+| 62 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 11%             |       1   | 0.298%                    | 1064.0%           | True    | 15%              |   0.1      | 0.0109%                    | 10.57%             |
+| 29 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.296%                    | 555.6%            | True    | 19%              |   0.1      | 0.0271%                    | 19.43%             |
+| 53 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.289%                    | 141.1%            | True    | 13%              |   0.1      | 0.0398%                    | 13.37%             |
+| 16 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 27%             |       1   | 0.284%                    | 535.5%            | True    | 57%              |   0.1      | 0.0258%                    | 10.3%              |
+| 33 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.273%                    | 528.1%            | True    | 15%              |   0.439553 | 0.101%                     | 100.4%             |
+| 20 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 29%             |       1   | 0.267%                    | 418.2%            | True    | 48%              |   0.1      | 0.0289%                    | 9.617%             |
+| 83 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.263%                    | 889.6%            | True    | 32%              |   0.185913 | 0.0229%                    | 23.29%             |
+| 49 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.257%                    | 632.7%            | True    | 13%              |   0.1      | 0.0208%                    | 21.05%             |
+| 59 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 12%             |       1   | 0.248%                    | 769.3%            | True    | 13%              |   0.1      | 0.0163%                    | 16.55%             |
+| 46 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 15%             |       1   | 0.234%                    | 641.8%            | True    | 26%              |   0.1      | 0.0177%                    | 17.61%             |
+| 31 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 31%             |       1   | 0.233%                    | 375.3%            | True    | 20%              |   0.1      | 0.0146%                    | 10.56%             |
+| 65 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 28%             |       1   | 0.231%                    | 529.6%            | True    | 51%              |   0.1      | 0.00698%                   | 6.463%             |
+| 50 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 32%             |       1   | 0.227%                    | 353.8%            | True    | 20%              |   0.1      | 0.0142%                    | 10.34%             |
+| 14 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 32%             |       1   | 0.221%                    | 349.5%            | True    | 12%              |   0.1      | 0.218%                     | 12.36%             |
+| 17 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 31%             |       1   | 0.215%                    | 564.8%            | True    | 36%              |   0.1      | 0.00717%                   | 11.36%             |
+| 13 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 16%             |       1   | 0.215%                    | 612.8%            | True    | 24%              |   0.1      | 0.0183%                    | 18.44%             |
+| 11 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 28%             |       1   | 0.214%                    | 552.5%            | True    | 23%              |   0.1      | 0.0115%                    | 11.11%             |
+| 10 |              1500 | 2016-01-01,  | 2022-07-23, | True   | 22%             |       1   | 0.201%                    | 498.2%            | True    | 14%              |   0.1      | 0.0323%                    | 33.59%             |
+| 39 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 30%             |       1   | 0.2%                      | 471.8%            | True    | 27%              |   0.1      | 0.0133%                    | 12.62%             |
+| 30 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 28%             |       1   | 0.199%                    | 238.8%            | True    | 29%              |   0.1      | 0.0207%                    | 14.45%             |
+| 28 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 40%             |       1   | 0.181%                    | 371.4%            | True    | 24%              |   0.1      | 0.016%                     | 15.65%             |
+| 63 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 16%             |       1   | 0.158%                    | 197.1%            | True    | 33%              |   0.1      | 0.00649%                   | 4.653%             |
+| 24 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 31%             |       1   | 0.158%                    | 296.8%            | True    | 51%              |   0.1      | 0.0114%                    | 10.78%             |
+| 82 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 15%             |       1   | 0.122%                    | 198.2%            | True    | 15%              |   0.15616  | 0.036%                     | 37.8%              |
+| 64 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       1   | 0.104%                    | 149.7%            | True    | 17%              |   0.1      | 0.0163%                    | 16.29%             |
+|  2 |               825 | 2016-01-01,  | 2022-07-19, | True   | 17%             |       0.2 | 0.0789%                   | 60.61%            | True    | 20%              |   0.1      | 0.038%                     | 25.31%             |
+|  4 |               825 | 2016-01-01,  | 2022-07-19, | True   | 16%             |       0.2 | 0.0763%                   | 47.47%            | True    | 20%              |   0.1      | 0.0288%                    | 15.84%             |
+|  0 |               825 | 2016-01-01,  | 2022-07-19, | True   | 22%             |       0.2 | 0.0688%                   | 47.56%            | True    | 26%              |   0.1      | 0.0266%                    | 16.14%             |
+|  3 |               825 | 2016-01-01,  | 2022-07-19, | True   | 19%             |       0.2 | 0.0608%                   | 36.34%            | True    | 34%              |   0.1      | 0.0235%                    | 13.48%             |
+|  1 |               825 | 2016-01-01,  | 2022-07-19, | True   | 19%             |       0.2 | 0.0564%                   | 46.68%            | True    | 30%              |   0.1      | 0.0235%                    | 17.57%             |
+|  5 |               825 | 2016-01-01,  | 2022-07-19, | True   | 28%             |       0.2 | 0.0481%                   | 53.89%            | True    | 24%              |   0.1      | 0.0146%                    | 14.08%             |
+| 57 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       0.1 | 0.0455%                   | 26.93%            | True    | 10%              |   0.1      | 0.0452%                    | 25.32%             |
+| 48 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 13%             |       0.1 | 0.0379%                   | 21.07%            | True    | 10%              |   0.1      | 0.0475%                    | 26.52%             |
+| 68 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       0.1 | 0.0337%                   | 20.66%            | True    | 19%              |   0.1      | 0.0239%                    | 13.91%             |
+|  6 |               825 | 2016-01-01,  | 2022-07-19, | True   | 23%             |       0.2 | 0.032%                    | 25.52%            | True    | 28%              |   0.1      | 0.0256%                    | 22.82%             |
+| 51 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       0.1 | 0.0308%                   | 18.79%            | True    | 14%              |   0.1      | 0.0234%                    | 13.74%             |
+| 56 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       0.1 | 0.0257%                   | 20.18%            | True    | 17%              |   0.1      | 0.0202%                    | 15.61%             |
+| 23 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       0.1 | 0.0228%                   | 17.73%            | True    | 15%              |   0.1      | 0.0191%                    | 14.57%             |
+| 58 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 12%             |       0.1 | 0.019%                    | 19.36%            | True    | 13%              |   0.1      | 0.0129%                    | 12.6%              |
+| 22 |              1500 | 2016-01-01,  | 2022-07-11, | True   | 14%             |       0.1 | 0.0159%                   | 15.63%            | True    | 11%              |   0.1      | 0.0208%                    | 21.12%             |
++----+-------------------+--------------+-------------+--------+-----------------+-----------+---------------------------+-------------------+---------+------------------+------------+----------------------------+--------------------+
