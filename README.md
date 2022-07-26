@@ -2,6 +2,7 @@
 PassivBot Strategies :
 
 [CSV Version](https://github.com/tedyptedto/pbos/blob/main/strategy_list.csv)
+
 [README Full Screen](https://github.com/tedyptedto/pbos/blob/main/README.md)
 
 |    | conf                                                                                                  | bulk                                                                                                              | categ   |   balance |   op_coin | bt_coin   |   days | end        | long   | l_gridspan   |   l_we | l_adg   | l_gain   | l_bkrupt   | short   | s_gridspan   |   s_we | s_adg    | s_gain   | s_bkrupt   |
