@@ -1,5 +1,4 @@
-# PBOS - PassivBotOnlyStrategy
-PassivBot Strategies :
+# PBOS - PassivBotOnlyStrategy - PassivBot Strategies
 
 [CSV Version](https://github.com/tedyptedto/pbos/blob/main/strategy_list.csv)
 
@@ -24,9 +23,7 @@ PassivBot Strategies :
 |  6 | [conf](https://github.com/tedyptedto/pbos/blob/main//MDCL/MATICUSDT_20220724164435_38c6f/config.json) | [bulk](https://github.com/tedyptedto/pbos/blob/main//MDCL/MATICUSDT_20220724164435_38c6f/bulk_optimisation.hjson) | MDCL    |     10000 |         2 | MATICUSDT |    635 | 2022/07/20 | True   | 24%          |    0.1 | 0.0326% | 25.53%   | 0.3% /0.19%/  | 100.0%     | True    | 24%          |    0.1 | 0.0177%  | 12.81%   | 100.0%     |
 | 10 | [conf](https://github.com/tedyptedto/pbos/blob/main//MDCL/MATICUSDT_20220712095344_f6966/config.json) | [bulk](https://github.com/tedyptedto/pbos/blob/main//MDCL/MATICUSDT_20220712095344_f6966/bulk_optimisation.hjson) | MDCL    |     10000 |         1 | MATICUSDT |    627 | 2022/07/12 | True   | 15%          |    0.1 | 0.0353% | 26.45%   | 0.49% /0.18%/ | 100.0%     | True    | 52%          |    0.1 | 0.0103%  | 7.073%   | 100.0%     |
 
-xx_Trash PassivBot (old) Strategies :
-
-[CSV Version](https://github.com/tedyptedto/pbos/blob/main/strategy_list.csv)
+# xx_Trash PassivBot (old) Strategies :
 
 [README Full Screen](https://github.com/tedyptedto/pbos/blob/main/README.md)
 
