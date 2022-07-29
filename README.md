@@ -6,24 +6,41 @@
 ### Legend
 
 bt_* = Informations relative to backtesting
+
 l_* = Informations on the strategy for Long side
+
 s_* = Informations on the strategy for Short side
 
 "uid" : Unique Id for the config.json,
+
 "info" : Link to the config.json and bulk config,
+
 "categ" : name of the bulk,
+
 "bt_balance" : starting_balance,
+
 "bt_coin" : Symbol backtested,
+
 "bt_days" : No. days,
+
 "bt_l_adg" : Long ADG realized per exposure,
+
 "bt_s_adg" : Short ADG realized per exposure,
+
 "long" : Long enabled,
+
 'l_AU' : Long AutoUnstuck enabled,
+
 "l_gspan" : Long grid_span (height of the grid),
+
 "l_TP"  : Long TP distance / TP zone height /,
+
 "short" : Short enabled,
+
 's_AU' : Short AutoUnstuck enabled,
+
 "s_gspan" : Short grid_span (height of the grid),
+
 "s_TP"  : Long TP distance / TP zone height /,
 
 
