@@ -1,10 +1,41 @@
-# PBOS - PassivBotOnlyStrategy - PassivBot Strategies
+# PBOS - PassivBotOnlyStrategy
+## PassivBot Strategies
 
-[CSV Version](https://github.com/tedyptedto/pbos/blob/main/strategy_list.csv)
 
-[README Full Screen](https://github.com/tedyptedto/pbos/blob/main/README.md)
 
-| uid   | info                                                                                                                                                                                                                                                                                    | categ         |   bt_balance | bt_coin   |   bt_days | l_bt_adg   | s_bt_adg   | long   | l_AU   | l_gspan   | l_TP          | short   | s_AU   | s_gspan   | s_TP          |
+### Legend
+
+bt_* = Informations relative to backtesting
+l_* = Informations on the strategy for Long side
+s_* = Informations on the strategy for Short side
+
+"uid" : Unique Id for the config.json,
+"info" : Link to the config.json and bulk config,
+"categ" : name of the bulk,
+"bt_balance" : starting_balance,
+"bt_coin" : Symbol backtested,
+"bt_days" : No. days,
+"bt_l_adg" : Long ADG realized per exposure,
+"bt_s_adg" : Short ADG realized per exposure,
+"long" : Long enabled,
+'l_AU' : Long AutoUnstuck enabled,
+"l_gspan" : Long grid_span (height of the grid),
+"l_TP"  : Long TP distance / TP zone height /,
+"short" : Short enabled,
+'s_AU' : Short AutoUnstuck enabled,
+"s_gspan" : Short grid_span (height of the grid),
+"s_TP"  : Long TP distance / TP zone height /,
+
+
+
+
+### CSV version
+
+Link to [CSV Version](https://github.com/tedyptedto/pbos/blob/main/strategy_list.csv)
+
+Link to [README Full Screen](https://github.com/tedyptedto/pbos/blob/main/README.md)
+
+| uid   | info                                                                                                                                                                                                                                                                                    | categ         |   bt_balance | bt_coin   |   bt_days | bt_l_adg   | bt_s_adg   | long   | l_AU   | l_gspan   | l_TP          | short   | s_AU   | s_gspan   | s_TP          |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------|-----------|-----------|------------|------------|--------|--------|-----------|---------------|---------|--------|-----------|---------------|
 | 97472 | [conf](https://github.com/tedyptedto/pbos/blob/main//MDCL/ADAUSDT_0.1/config.json#97472)/[bulk](https://github.com/tedyptedto/pbos/blob/main//MDCL/ADAUSDT_0.1/bulk_optimisation.hjson#97472)                                                                                           | MDCL          |        10000 | ADAUSDT   |       892 | 0.36%      | 0.0676%    | True   | True   | 35%       | 0.49% /0.2%/  | True    | True   | 47%       | 0.5% /0.19%/  |
 | fee62 | [conf](https://github.com/tedyptedto/pbos/blob/main//MDCL/SANDUSDT_0.2.1/config.json#fee62)/[bulk](https://github.com/tedyptedto/pbos/blob/main//MDCL/SANDUSDT_0.2.1/bulk_optimisation.hjson#fee62)                                                                                     | MDCL          |        10000 | SANDUSDT  |       540 | 0.36%      | 0.195%     | True   | True   | 31%       | 0.28% /0.2%/  | True    | True   | 34%       | 0.29% /0.17%/ |
