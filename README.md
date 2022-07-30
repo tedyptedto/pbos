@@ -52,7 +52,9 @@ Link to [README Full Screen](https://github.com/tedyptedto/pbos/blob/main/README
 ### Strategy list
 
 [Sorted by categ and adg](https://github.com/tedyptedto/pbos#strategy-sorted-by-categ-and-adg)
+
 [Sorted by stars](https://github.com/tedyptedto/pbos#strategy-sorted-by-stars)
+
 [Sorted by ADG](https://github.com/tedyptedto/pbos#strategy-sorted-by-adg)
 
 
