@@ -1,0 +1,1 @@
+Strategy come from : /dotcom87/dotcom87_scalp_neat_0_1/CRVUSDT_20220725154729_35c4c/config.json
