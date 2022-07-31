@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/1.7/EGLDUSDT_20220726144831_522de/config.json
