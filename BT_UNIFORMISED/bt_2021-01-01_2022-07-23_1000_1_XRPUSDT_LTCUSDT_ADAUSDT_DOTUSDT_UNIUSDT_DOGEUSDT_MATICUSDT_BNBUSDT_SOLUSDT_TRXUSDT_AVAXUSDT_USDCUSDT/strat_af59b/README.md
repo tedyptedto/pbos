@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1.5/XRPUSDT_20220723093109_e541e/config.json
+Strategy come from : /flyingtoaster/audisabled/1.5/XRPUSDT_20220723093109_e541e/config.json
