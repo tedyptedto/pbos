@@ -1,0 +1,1 @@
+Strategy come from : /MDCL/Update_0.2.3/MANAUSDT_20220803130558_ff753/config.json
