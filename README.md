@@ -3,14 +3,14 @@
 PBOS is a group of person working in Passivbot strategies.
 
 **Discord Members :**
-MDCL : https://github.com/Skanouch/passivbot
-DotCom : https://github.com/raftheunis87/pb-configs
-Flyingtoaster : https://github.com/donewiththedollar/passivbot_v5.7.0
-Tedy : https://github.com/tedyptedto/passivbot
-enarjord : https://github.com/enarjord/passivbot/
-krishna_nx : N/C
-rygreen93 : N/C
-Miguelito : N/C
+- MDCL : https://github.com/Skanouch/passivbot
+- DotCom : https://github.com/raftheunis87/pb-configs
+- Flyingtoaster : https://github.com/donewiththedollar/passivbot_v5.7.0
+- Tedy : https://github.com/tedyptedto/passivbot
+- enarjord : https://github.com/enarjord/passivbot/
+- krishna_nx : N/C
+- rygreen93 : N/C
+- Miguelito : N/C
 
 ## PassivBot Strategies
 
