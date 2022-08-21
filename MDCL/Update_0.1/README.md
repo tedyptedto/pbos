@@ -5,13 +5,13 @@ Short min Grid = 20% | Short max Grid = 60%
 adg_PAD_std = 0.01
 adg_realized_PAD_mean = 0.015
 
-  # adg_PAD_std:
-  # adg / max(max_pa_dist_std, mean([max(max_pa_dist_std, PAD_std) for PAD_std in results]))
+  adg_PAD_std:
+  adg / max(max_pa_dist_std, mean([max(max_pa_dist_std, PAD_std) for PAD_std in results
   maximum_pa_distance_std_long: 0.01
   maximum_pa_distance_std_short: 0.01
 
-  # adg_realized_PAD_mean:
-  # adg_realized / max(max_pa_dist_mean, mean([max(max_pa_dist_mean, PAD_mean) for PAD_mean in results]))
+  adg_realized_PAD_mean:
+  adg_realized / max(max_pa_dist_mean, mean([max(max_pa_dist_mean, PAD_mean) for PAD_mean in results
   
   maximum_pa_distance_mean_long: 0.015
   maximum_pa_distance_mean_short: 0.015
