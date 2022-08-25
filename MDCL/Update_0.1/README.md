@@ -1,0 +1,53 @@
+Scalp Harmony Search NEAT | Take Profit 0.5% MAX | Default settings | Lower EMA's | AU Enabled
+
+Long min Grid = 15% | Long max Grid = 40%
+Short min Grid = 20% | Short max Grid = 60%
+adg_PAD_std = 0.01
+adg_realized_PAD_mean = 0.015
+
+  adg_PAD_std:
+  adg / max(max_pa_dist_std, mean([max(max_pa_dist_std, PAD_std) for PAD_std in results
+  maximum_pa_distance_std_long: 0.01
+  maximum_pa_distance_std_short: 0.01
+
+  adg_realized_PAD_mean:
+  adg_realized / max(max_pa_dist_mean, mean([max(max_pa_dist_mean, PAD_mean) for PAD_mean in results
+  
+  maximum_pa_distance_mean_long: 0.015
+  maximum_pa_distance_mean_short: 0.015
+
+  bounds_neat_grid:
+
+    long:
+
+      grid_span: [0.15, 0.4]
+      ema_span_0: [10, 2000]
+      ema_span_1: [10, 5000]
+      wallet_exposure_limit: [0.1, 0.1]
+      max_n_entry_orders: [5, 20]
+      initial_qty_pct: [0.01, 0.01]
+      initial_eprice_ema_dist: [-0.1, 0.0]
+      eqty_exp_base: [1.0, 3.0]
+      eprice_exp_base: [1.0, 3.0]
+      min_markup: [0.002, 0.002]
+      markup_range: [0.000, 0.003]
+      n_close_orders: [5, 20]
+      auto_unstuck_wallet_exposure_threshold: [0.0, 0.6]
+      auto_unstuck_ema_dist: [0.0, 0.1]
+
+    short:
+
+      grid_span: [0.2, 0.6]
+      ema_span_0: [10, 4000]
+      ema_span_1: [10, 8000]
+      wallet_exposure_limit: [0.1, 0.1]
+      max_n_entry_orders: [5, 20]
+      initial_qty_pct: [0.01, 0.01]
+      initial_eprice_ema_dist: [-0.1, 0.0]
+      eqty_exp_base: [1.0, 3.0]
+      eprice_exp_base: [1.0, 3.0]
+      min_markup: [0.002, 0.002]
+      markup_range: [0.000, 0.003]
+      n_close_orders: [5, 20]
+      auto_unstuck_wallet_exposure_threshold: [0.0, 0.6]
+      auto_unstuck_ema_dist: [0.0, 0.1]
