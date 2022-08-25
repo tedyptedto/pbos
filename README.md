@@ -22,7 +22,7 @@ Startegies :
 
 ## PassivBot Strategies backtested with same parameters
 The goal is to backtest all strategies with the same backtest parameters :
-- minute candles
+- **minute candles** not realy occurate
 - coin list (XRPUSDT, LTCUSDT, ADAUSDT, DOTUSDT, UNIUSDT, DOGEUSDT, MATICUSDT, BNBUSDT, SOLUSDT, TRXUSDT, AVAXUSDT, USDCUSDT)
 - From 2021-01-01 to 2022-07-23
 - starting_balance : 1000 $
