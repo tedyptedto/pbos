@@ -1,0 +1,1 @@
+Strategy come from : /tedyptedto/configs/live/a_pro.json

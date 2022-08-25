@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/audisabled/1.5/ETCUSDT_20220723093109_e541e/config.json
