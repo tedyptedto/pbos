@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/mdcl_hardcore_scalp/XLMUSDT_20220818203915_b4260/config.json

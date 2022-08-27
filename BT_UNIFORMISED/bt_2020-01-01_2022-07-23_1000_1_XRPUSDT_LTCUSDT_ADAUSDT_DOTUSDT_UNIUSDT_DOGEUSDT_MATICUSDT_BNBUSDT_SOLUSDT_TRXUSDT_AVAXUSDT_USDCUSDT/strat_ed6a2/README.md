@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/0.1.2_auenabled_longshort/XTZUSDT_20220807224359_bbacc/config.json

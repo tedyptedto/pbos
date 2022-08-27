@@ -1,0 +1,1 @@
+Strategy come from : /MDCL/Default_TP_0.2%_17k_balance_testing/LINKUSDT_20220817045953_116a8/config.json
