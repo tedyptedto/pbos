@@ -31,11 +31,7 @@ The goal is to backtest all strategies with the same backtest parameters :
 Results :
 - [All backtest](https://github.com/tedyptedto/pbos/blob/main/bt_2020-01-01_2022-07-23_1000_1_XRPUSDT_LTCUSDT_ADAUSDT_DOTUSDT_UNIUSDT_DOGEUSDT_MATICUSDT_BNBUSDT_SOLUSDT_TRXUSDT_AVAXUSDT_USDCUSDT.csv)
 - [Strategies having this requirements](https://github.com/tedyptedto/pbos/blob/main/best_bt_2020-01-01_2022-07-23_1000_1_XRPUSDT_LTCUSDT_ADAUSDT_DOTUSDT_UNIUSDT_DOGEUSDT_MATICUSDT_BNBUSDT_SOLUSDT_TRXUSDT_AVAXUSDT_USDCUSDT.csv) :
-  - min-bkr : 1
-  - min-gain : 100
-  - min-days : 365
-  - max-stuck : 140
-  - max-stuck-avg: 2
+  "-min-eqbal_ratio_min_long", "0.8", "-max-stuck-avg", "2", "-min-gridspan", "19", "-min-gain", "100", "-max-pa_distance_mean_long", "0.02", "-max-loss_sum_long","500"
 
 ### Legend
 
