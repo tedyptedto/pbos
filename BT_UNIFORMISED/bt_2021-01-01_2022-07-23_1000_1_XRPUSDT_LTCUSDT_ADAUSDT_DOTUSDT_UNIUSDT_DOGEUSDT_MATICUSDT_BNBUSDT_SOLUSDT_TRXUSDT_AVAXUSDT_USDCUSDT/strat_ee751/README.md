@@ -1,1 +1,0 @@
-Strategy come from : /MDCL/Update_0.2.3/SANDUSDT_20220804003736_fef8f/config.json

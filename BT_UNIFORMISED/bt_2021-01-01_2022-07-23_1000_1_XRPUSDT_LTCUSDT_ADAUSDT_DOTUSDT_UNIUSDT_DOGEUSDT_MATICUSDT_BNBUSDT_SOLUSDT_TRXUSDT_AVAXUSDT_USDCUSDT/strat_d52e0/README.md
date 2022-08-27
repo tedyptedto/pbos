@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/audisabled/1.7/XRPUSDT_20220726144831_522de/config.json

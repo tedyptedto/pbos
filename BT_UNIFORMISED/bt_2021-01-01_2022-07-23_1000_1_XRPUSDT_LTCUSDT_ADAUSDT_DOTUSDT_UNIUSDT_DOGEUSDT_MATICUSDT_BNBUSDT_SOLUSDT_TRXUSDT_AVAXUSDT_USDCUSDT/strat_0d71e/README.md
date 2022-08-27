@@ -1,1 +1,0 @@
-Strategy come from : /dotcom87/dotcom87_scalp_neat_0_1/CHRUSDT_20220728060537_06eab/config.json

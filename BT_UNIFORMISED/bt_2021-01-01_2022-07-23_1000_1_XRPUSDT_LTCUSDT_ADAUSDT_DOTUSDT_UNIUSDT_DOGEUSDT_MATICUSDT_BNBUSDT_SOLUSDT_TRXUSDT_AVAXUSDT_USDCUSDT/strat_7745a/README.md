@@ -1,1 +1,0 @@
-Strategy come from : /official_PB_config/v5.7.1/neat_AUdisabled_440days_119symbols_2022-07-29.json

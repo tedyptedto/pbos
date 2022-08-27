@@ -1,1 +1,0 @@
-Strategy come from : /MDCL/Update_0.2.3/VETUSDT_20220805110939_7de7b/config.json

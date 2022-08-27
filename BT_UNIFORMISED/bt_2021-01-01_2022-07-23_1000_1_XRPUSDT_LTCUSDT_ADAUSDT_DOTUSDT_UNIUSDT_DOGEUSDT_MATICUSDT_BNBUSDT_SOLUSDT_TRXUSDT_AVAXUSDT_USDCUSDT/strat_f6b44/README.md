@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/0.1_auenabled_short/maximum_pa_distance_std_test/DOTUSDT_MAX_PA_DIST_STD_0.015/config.json

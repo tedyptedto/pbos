@@ -1,1 +1,0 @@
-Strategy come from : /MDCL/Update_0.2.2/ADAUSDT_20220731135249_d0915/config.json
