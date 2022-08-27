@@ -22,15 +22,15 @@ Startegies :
 
 ## PassivBot Strategies backtested with same parameters
 The goal is to backtest all strategies with the same backtest parameters :
-- **minute candles** not realy occurate
-- coin list (XRPUSDT, LTCUSDT, ADAUSDT, DOTUSDT, UNIUSDT, DOGEUSDT, MATICUSDT, BNBUSDT, SOLUSDT, TRXUSDT, AVAXUSDT, USDCUSDT)
-- From 2021-01-01 to 2022-07-23
+- **1 second candles** very occurate
+- coin list (XRPUSDT, LTCUSDT, ADAUSDT, DOTUSDT, UNIUSDT, DOGEUSDT, MATICUSDT, BNBUSDT, SOLUSDT, TRXUSDT, AVAXUSDT)
+- From 2020-01-01 to 2022-07-23
 - starting_balance : 1000 $
 - wallet exposure : 1 (we is auto adjusted to 1 for the sum of long and short wallet exposure)
 
 Results :
-- [All backtest](https://github.com/tedyptedto/pbos/blob/main/bt_2021-01-01_2022-07-23_1000_1_XRPUSDT_LTCUSDT_ADAUSDT_DOTUSDT_UNIUSDT_DOGEUSDT_MATICUSDT_BNBUSDT_SOLUSDT_TRXUSDT_AVAXUSDT_USDCUSDT.csv)
-- [Strategies having this requirements](https://github.com/tedyptedto/pbos/blob/main/best_bt_2021-01-01_2022-07-23_1000_1_XRPUSDT_LTCUSDT_ADAUSDT_DOTUSDT_UNIUSDT_DOGEUSDT_MATICUSDT_BNBUSDT_SOLUSDT_TRXUSDT_AVAXUSDT_USDCUSDT.csv) :
+- [All backtest](https://github.com/tedyptedto/pbos/blob/main/bt_2020-01-01_2022-07-23_1000_1_XRPUSDT_LTCUSDT_ADAUSDT_DOTUSDT_UNIUSDT_DOGEUSDT_MATICUSDT_BNBUSDT_SOLUSDT_TRXUSDT_AVAXUSDT_USDCUSDT.csv)
+- [Strategies having this requirements](https://github.com/tedyptedto/pbos/blob/main/best_bt_2020-01-01_2022-07-23_1000_1_XRPUSDT_LTCUSDT_ADAUSDT_DOTUSDT_UNIUSDT_DOGEUSDT_MATICUSDT_BNBUSDT_SOLUSDT_TRXUSDT_AVAXUSDT_USDCUSDT.csv) :
   - min-bkr : 1
   - min-gain : 100
   - min-days : 365
