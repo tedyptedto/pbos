@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/audisabled/1.7/DYDXUSDT_20220726144831_522de/config.json
+Strategy come from : /flyingtoaster/1m/audisabled/1.7/DYDXUSDT_20220726144831_522de/config.json

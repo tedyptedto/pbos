@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/mdcl_hardcore_scalp/ADAUSDT_20220818203915_b4260/config.json
+Strategy come from : /flyingtoaster/1m/mdcl_hardcore_scalp/ADAUSDT_20220818203915_b4260/config.json
