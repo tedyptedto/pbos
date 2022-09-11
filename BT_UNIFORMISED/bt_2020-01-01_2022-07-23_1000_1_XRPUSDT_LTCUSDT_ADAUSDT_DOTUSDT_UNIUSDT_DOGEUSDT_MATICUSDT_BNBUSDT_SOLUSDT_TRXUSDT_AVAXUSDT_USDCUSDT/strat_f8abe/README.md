@@ -1,0 +1,1 @@
+Strategy come from : /MDCL/Multi_opti/3_coins/MATICUSDT,ADAUSDT,MANAUSDT_20220909133350_9338a/config.json

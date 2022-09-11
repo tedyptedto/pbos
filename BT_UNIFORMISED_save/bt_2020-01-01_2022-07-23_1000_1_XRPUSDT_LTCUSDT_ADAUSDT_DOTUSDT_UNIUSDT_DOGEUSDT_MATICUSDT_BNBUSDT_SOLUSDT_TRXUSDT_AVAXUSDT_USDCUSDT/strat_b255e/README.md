@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/1s/0.1.5_40%grid_1sdata_auenabled_longshort/SANDUSDT_20220901213214_31214/config.json

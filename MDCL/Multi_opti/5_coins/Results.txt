@@ -1,0 +1,24 @@
+n results 5023 score formula: adgrealizedPADstd, PAD max: [0.02, 0.02] loss_profit_ratio max: [0.1, 0.1]
+results long best config no 2182
+symbol               adg      PADmean  PADstd   lp_ratio score
+ADAUSDT              0.000866 0.014886 0.011676 0.014576 0.056582
+LINKUSDT             0.001054 0.017728 0.012369 0.015083 0.056582
+MANAUSDT             0.001192 0.015327 0.011981 0.007620 0.056582
+GRTUSDT              0.001360 0.024202 0.013956 0.030751 0.056582
+MATICUSDT            0.001424 0.013752 0.011757 0.003402 0.056582
+means                0.001179 0.017179 0.012348 0.014286 
+results short best config no 4570
+symbol               adg      PADmean  PADstd   lp_ratio score
+ADAUSDT              0.000563 0.014860 0.016543 0.004743 0.032948
+LINKUSDT             0.000564 0.014596 0.018229 0.000000 0.032948
+MANAUSDT             0.000814 0.013042 0.015464 0.000000 0.032948
+GRTUSDT              0.000842 0.019199 0.017965 0.013991 0.032948
+MATICUSDT            0.000939 0.032938 0.020974 0.030744 0.032948
+means                0.000744 0.018927 0.017835 0.009895 
+
+sum adgs
+ADAUSDT      0.001429
+LINKUSDT     0.001619
+MANAUSDT     0.002006
+GRTUSDT      0.002202
+MATICUSDT    0.002363

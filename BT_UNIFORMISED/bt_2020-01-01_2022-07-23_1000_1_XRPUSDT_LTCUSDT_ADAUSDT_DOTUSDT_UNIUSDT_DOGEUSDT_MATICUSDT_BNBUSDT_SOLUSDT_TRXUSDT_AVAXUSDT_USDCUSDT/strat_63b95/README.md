@@ -1,1 +1,1 @@
-Strategy come from : /MDCL/Multi/neat_grid_20_symbols_1023_days.json
+Strategy come from : /MDCL/Multi_opti/neat_grid_20_symbols_1023_days.json
