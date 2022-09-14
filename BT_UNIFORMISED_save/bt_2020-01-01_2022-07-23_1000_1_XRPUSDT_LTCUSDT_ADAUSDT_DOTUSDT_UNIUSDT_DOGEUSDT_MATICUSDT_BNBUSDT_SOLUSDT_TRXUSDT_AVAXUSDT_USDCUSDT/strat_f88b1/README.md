@@ -1,1 +1,0 @@
-Strategy come from : /MDCL/BTCUSDT_testing/neat_grid_BTCUSDT_1000_days.json

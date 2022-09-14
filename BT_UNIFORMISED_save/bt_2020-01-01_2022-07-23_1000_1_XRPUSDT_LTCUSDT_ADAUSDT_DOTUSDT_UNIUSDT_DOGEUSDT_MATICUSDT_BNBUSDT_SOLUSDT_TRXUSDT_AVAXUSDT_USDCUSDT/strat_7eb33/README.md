@@ -1,1 +1,0 @@
-Strategy come from : /MDCL/Update_0.2.3/AVAXUSDT_20220804100658_3ac1e/config.json

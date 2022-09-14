@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1s/0.1.2_auenabled_longshort/CHZUSDT_20220807030728_4dae9/config.json

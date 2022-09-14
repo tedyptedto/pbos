@@ -1,1 +1,0 @@
-Strategy come from : /official_PB_config/v5.4.0/long_dip_eater_80symbols_275_days.json

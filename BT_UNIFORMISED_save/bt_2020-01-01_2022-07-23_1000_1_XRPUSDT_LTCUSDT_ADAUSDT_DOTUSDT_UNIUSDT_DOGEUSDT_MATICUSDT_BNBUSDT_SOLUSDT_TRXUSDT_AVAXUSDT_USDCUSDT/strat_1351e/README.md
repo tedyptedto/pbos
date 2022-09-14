@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/0.1_auenabled_short/XLMUSDT_20220731004348_49308/config.json

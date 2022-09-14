@@ -1,1 +1,0 @@
-Strategy come from : /dotcom87/v0.1/GRTUSDT_20220730064655_4661b/config.json
