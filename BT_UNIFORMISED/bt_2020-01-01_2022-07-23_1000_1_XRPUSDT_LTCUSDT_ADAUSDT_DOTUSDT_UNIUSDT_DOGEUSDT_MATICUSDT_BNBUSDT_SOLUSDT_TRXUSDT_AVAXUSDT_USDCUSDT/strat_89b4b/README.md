@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/1m/audisabled/1.8/MATICUSDT_20220729034019_65741/config.json

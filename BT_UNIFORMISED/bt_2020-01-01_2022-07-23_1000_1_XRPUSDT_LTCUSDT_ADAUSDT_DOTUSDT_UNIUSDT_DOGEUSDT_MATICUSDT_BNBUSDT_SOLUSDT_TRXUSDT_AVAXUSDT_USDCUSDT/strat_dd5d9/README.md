@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/1m/test_phase/0.2_mediumrisk/GMTUSDT_20220814082811_1a832/config.json

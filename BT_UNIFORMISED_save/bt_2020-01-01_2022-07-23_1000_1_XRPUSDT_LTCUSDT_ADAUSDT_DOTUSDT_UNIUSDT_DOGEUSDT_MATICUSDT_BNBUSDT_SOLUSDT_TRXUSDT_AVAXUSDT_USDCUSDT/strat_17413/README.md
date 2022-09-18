@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/0.1.3b_1sdata_auenabled_longshort/CVCUSDT_20220821202157_19ee4/config.json

@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/1m/test_phase/gridspantest1/MATICUSDT_20220814033625_4ed87/config.json

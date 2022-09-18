@@ -1,1 +1,0 @@
-Strategy come from : /MDCL/Update_0.1/DOTUSDT_0.1/config.json
