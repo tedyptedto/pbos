@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1s/0.1.2_auenabled_longshort/GMTUSDT_20220805010112_a7190/config.json
+Strategy come from : /flyingtoaster/1m/0.1.2_auenabled_longshort/GMTUSDT_20220805010112_a7190/config.json
