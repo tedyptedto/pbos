@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1s/0.1.2_auenabled_longshort/OPUSDT_20220807224359_bbacc/config.json
+Strategy come from : /flyingtoaster/1m/0.1.2_auenabled_longshort/OPUSDT_20220807224359_bbacc/config.json
