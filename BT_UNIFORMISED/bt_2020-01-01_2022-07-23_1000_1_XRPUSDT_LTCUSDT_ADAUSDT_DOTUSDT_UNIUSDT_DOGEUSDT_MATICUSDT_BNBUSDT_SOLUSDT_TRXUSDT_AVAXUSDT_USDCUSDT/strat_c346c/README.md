@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/1s/bullish_aggression_longonly/MATICUSDT_20220914045333_34155/config.json
