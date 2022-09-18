@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/1m/test_phase/0.1.6_scalper_auenabled/DOTUSDT_20220811010051_9c999/config.json
