@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/1s/0.1.4_40%grid_1sdata_auenabled_longshort/IOTAUSDT_20220828223811_51f4f/config.json
