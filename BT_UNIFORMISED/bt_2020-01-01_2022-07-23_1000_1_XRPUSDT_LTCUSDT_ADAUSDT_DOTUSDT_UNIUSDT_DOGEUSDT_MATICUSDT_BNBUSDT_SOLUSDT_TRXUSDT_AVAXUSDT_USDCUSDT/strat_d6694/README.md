@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/1s/bullish_aggression_longonly/DYDXUSDT_20220915000148_1da4c/config.json
