@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/particle_swarm/PSO_0.1.4_optimized/DOTUSDT_20220910201344_e31ae/config.json
