@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/pso_scalper/PSO_scalper_40%mingrid/SANDUSDT_20220921174202_28b6c/config.json
