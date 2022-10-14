@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/test_phase/harcore_scalp_0.1/DOTUSDT_20220811094442_bb7b5/config.json

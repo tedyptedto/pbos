@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1s/bullish_aggression_longonly/CHZUSDT_20220914093547_c3c81/config.json

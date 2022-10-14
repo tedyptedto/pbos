@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/audisabled/1.7/XLMUSDT_20220726144831_522de/config.json

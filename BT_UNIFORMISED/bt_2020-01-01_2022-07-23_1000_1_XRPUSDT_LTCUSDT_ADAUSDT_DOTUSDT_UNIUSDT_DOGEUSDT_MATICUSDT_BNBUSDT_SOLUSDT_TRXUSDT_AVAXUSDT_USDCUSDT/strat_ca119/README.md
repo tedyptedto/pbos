@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1s/testing/0.1.6_40%grid_1sdata_auenabled_longshort_testphase/MATICUSDT_20220903234114_c3309/config.json

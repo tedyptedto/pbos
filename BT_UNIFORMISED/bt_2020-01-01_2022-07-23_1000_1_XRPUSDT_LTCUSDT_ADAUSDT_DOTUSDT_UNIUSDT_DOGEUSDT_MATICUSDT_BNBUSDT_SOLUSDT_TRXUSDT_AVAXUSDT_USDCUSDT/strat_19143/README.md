@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/5.7.0/XMRUSDT_20220716051312_e271d/config.json

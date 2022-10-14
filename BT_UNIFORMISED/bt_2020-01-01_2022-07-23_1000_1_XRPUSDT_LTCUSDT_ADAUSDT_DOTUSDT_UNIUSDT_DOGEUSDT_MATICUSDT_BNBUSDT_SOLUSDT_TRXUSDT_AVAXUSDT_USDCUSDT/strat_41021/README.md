@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/test_phase/0.1.3_widegrid_auenabled_longshort/DOTUSDT_20220808181521_1a897/config.json

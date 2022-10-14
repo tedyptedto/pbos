@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/hardcore_scalp/LINKUSDT_20220811210818_adb85/config.json

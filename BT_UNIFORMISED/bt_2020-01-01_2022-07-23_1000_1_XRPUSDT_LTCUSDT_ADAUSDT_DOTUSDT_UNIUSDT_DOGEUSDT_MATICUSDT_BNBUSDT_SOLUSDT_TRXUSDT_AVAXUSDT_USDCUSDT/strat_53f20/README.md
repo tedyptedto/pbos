@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/5.7.0/DOTUSDT_20220720232313_ee288/config.json

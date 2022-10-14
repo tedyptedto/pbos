@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/particle_swarm/neat_grid/PSO_0.1.3_mike0/MATICUSDT_20220912182243_e3403/config.json

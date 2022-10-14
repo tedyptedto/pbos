@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1s/testing/recursive_01_test/MATICUSDT_20220903063921_12718/config.json

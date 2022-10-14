@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/5.7.0/SANDUSDT_20220713151530_949a2/config.json

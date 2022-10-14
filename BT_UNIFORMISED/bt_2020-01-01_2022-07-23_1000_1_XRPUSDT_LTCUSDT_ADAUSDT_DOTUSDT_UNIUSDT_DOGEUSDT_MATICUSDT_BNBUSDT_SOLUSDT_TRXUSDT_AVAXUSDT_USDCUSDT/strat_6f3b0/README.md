@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/audisabled/1.4/DOTUSDT_20220723033310_f0eb5/config.json

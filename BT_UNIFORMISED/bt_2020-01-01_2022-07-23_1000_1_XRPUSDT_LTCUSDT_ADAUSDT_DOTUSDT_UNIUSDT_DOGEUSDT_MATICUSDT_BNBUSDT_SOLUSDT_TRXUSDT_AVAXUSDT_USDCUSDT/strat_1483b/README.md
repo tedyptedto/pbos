@@ -1,1 +1,0 @@
-Strategy come from : /tedyptedto/configs/live/eb1ed_long_only.json

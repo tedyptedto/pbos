@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/particle_swarm/tests/particle_swarm_40%/matic/live_config.json

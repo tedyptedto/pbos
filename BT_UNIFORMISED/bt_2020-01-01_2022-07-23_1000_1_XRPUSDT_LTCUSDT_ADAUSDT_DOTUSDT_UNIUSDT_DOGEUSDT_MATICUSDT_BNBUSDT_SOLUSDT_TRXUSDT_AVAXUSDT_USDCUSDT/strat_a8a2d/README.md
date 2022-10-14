@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/test_phase/tight_02_auenabled/MATICUSDT_20220818023409_937fa/config.json

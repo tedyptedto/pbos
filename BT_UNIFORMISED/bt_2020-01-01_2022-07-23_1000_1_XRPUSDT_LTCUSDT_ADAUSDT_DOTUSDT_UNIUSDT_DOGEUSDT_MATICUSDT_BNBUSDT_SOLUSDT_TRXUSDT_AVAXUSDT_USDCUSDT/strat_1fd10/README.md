@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/5.7.0/SOLUSDT_20220713075744_02a71/config.json

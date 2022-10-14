@@ -1,1 +1,0 @@
-Strategy come from : /MDCL/Activebot/bullrun_v1_long.json

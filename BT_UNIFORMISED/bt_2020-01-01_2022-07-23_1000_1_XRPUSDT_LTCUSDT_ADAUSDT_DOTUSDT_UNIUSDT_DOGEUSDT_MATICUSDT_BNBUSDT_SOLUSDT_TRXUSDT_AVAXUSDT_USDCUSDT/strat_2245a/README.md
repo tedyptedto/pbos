@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/5.7.0/LINKUSDT_20220718170718_17e47/config.json

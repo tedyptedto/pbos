@@ -1,1 +1,0 @@
-Strategy come from : /MDCL/Update_0.2/MATICUSDT_0.2/config.json

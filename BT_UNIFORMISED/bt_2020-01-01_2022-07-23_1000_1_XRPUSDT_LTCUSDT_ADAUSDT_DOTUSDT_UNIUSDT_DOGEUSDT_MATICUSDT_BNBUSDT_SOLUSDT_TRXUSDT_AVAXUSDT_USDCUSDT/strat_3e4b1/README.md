@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/5.7.0/NEARUSDT_20220719121510_7aed7/config.json

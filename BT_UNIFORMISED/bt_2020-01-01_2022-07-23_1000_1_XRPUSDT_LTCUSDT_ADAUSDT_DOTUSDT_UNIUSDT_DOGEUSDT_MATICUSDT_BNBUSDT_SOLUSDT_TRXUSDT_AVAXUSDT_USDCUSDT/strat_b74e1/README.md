@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1s/testing/0.1.4a_40%grid_1sdata_auenabled_longshort/NEOUSDT_20220829172645_3c600/config.json

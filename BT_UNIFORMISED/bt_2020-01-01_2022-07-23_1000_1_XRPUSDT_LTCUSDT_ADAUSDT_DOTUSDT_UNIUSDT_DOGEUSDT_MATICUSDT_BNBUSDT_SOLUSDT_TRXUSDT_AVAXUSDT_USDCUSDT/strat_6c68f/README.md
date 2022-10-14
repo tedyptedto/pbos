@@ -1,1 +1,0 @@
-Strategy come from : /MDCL/Update_0.2.3/FTMUSDT_20220805024243_57f60/config.json

@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/0.1.2_auenabled_longshort/FLOWUSDT_20220807030728_4dae9/config.json

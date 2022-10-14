@@ -1,1 +1,0 @@
-Strategy come from : /MDCL/Multi_opti/neat_grid_24_symbols_1035days.json

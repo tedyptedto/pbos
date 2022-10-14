@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/particle_swarm/recursive_grid/5_recursive/DYDXUSDT_20221010175504_74553/config.json

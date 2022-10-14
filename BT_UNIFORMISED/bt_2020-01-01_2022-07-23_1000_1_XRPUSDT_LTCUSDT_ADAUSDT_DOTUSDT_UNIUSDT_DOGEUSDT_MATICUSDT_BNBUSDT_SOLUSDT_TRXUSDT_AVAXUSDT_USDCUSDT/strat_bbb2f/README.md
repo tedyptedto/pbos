@@ -1,1 +1,0 @@
-Strategy come from : /dotcom87/recursive_grid/multi_recursive_grid_v0.1/1INCHUSDT_20221009000000_00001/config.json

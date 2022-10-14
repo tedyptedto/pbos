@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1s/0.1.5_40%grid_1sdata_auenabled_longshort/WAVESUSDT_20220831050247_8f999/config.json

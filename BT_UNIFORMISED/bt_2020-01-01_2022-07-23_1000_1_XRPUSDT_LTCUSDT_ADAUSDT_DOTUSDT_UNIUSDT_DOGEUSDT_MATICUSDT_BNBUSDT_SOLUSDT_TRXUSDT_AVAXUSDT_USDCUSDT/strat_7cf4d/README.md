@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/test_phase/0.1.1_auenabled_short/AVAX/config.json

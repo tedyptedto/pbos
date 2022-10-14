@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/1m/hardcore_scalp/SOLUSDT_20220811210818_adb85/config.json

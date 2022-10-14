@@ -1,1 +1,0 @@
-Strategy come from : /flyingtoaster/particle_swarm/tests/ps_40%mingrid_highADG_01/MATICUSDT/live_config.json
