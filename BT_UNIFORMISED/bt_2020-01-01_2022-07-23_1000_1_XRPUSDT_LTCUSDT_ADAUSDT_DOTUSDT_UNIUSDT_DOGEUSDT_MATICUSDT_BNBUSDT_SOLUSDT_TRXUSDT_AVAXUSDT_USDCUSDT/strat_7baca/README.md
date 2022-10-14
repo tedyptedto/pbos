@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/particle_swarm/PSO_0.1.4_reoptimized_new/NEARUSDT_20220928202229_295aa/config.json
+Strategy come from : /flyingtoaster/particle_swarm/neat_grid/PSO_0.1.4_reoptimized_new/NEARUSDT_20220928202229_295aa/config.json
