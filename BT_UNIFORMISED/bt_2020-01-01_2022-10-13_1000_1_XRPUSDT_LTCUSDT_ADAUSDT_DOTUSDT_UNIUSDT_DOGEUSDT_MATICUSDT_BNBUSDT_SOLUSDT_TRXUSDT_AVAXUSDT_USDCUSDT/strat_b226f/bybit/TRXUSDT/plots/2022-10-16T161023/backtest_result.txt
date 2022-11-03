@@ -1,0 +1,77 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | TRXUSDT   |
+| No. days                    | 1001.66   |
+| Starting balance            | 1000.0    |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.0542%   |
+| Final balance               | 1311.64   |
+| Final equity                | 1311.38   |
+| Net PNL + fees              | 311.641   |
+| Total gain                  | 32.58%    |
+| Average daily gain          | 0.0272%   |
+| DG mean std ratio           | 0.1609    |
+| Price action distance mean  | 0.0163201 |
+| Price action distance std   | 0.0124975 |
+| Price action distance max   | 0.217445  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9107    |
+| Equity/balance ratio std    | 0.00155   |
+| No. fills                   | 14720     |
+| No. entries                 | 7787      |
+| No. closes                  | 6933      |
+| No. initial entries         | 6486      |
+| No. reentries               | 1300      |
+| No. unstuck entries         | 1         |
+| No. unstuck closes          | 360       |
+| No. normal closes           | 6573      |
+| Average n fills per day     | 14.7      |
+| Mean hours stuck            | 3.26807   |
+| Max hours stuck             | 254.55    |
+| PNL sum                     | 325.8     |
+| Profit sum                  | 344.8     |
+| Loss sum                    | -19.09    |
+| Fee sum                     | -14.11    |
+| Biggest pos size            | 73915.0   |
+| Biggest pos cost            | 632.3     |
+| Volume quote                | 141104.0  |
+|                             |           |
+| Short                       | True      |
+| ADG realized per exposure   | -0.0414%  |
+| Final balance               | 812.803   |
+| Final equity                | 812.818   |
+| Net PNL + fees              | -187.197  |
+| Total gain                  | -18.3%    |
+| Average daily gain          | -0.0161%  |
+| DG mean std ratio           | -0.01733  |
+| Price action distance mean  | 0.0225019 |
+| Price action distance std   | 0.0264484 |
+| Price action distance max   | 0.463414  |
+| Closest bankruptcy          | 60.83%    |
+| Lowest equity/balance ratio | 0.5682    |
+| Equity/balance ratio std    | 0.01517   |
+| No. fills                   | 5786      |
+| No. entries                 | 3101      |
+| No. closes                  | 2685      |
+| No. initial entries         | 2513      |
+| No. reentries               | 582       |
+| No. unstuck entries         | 6         |
+| No. unstuck closes          | 167       |
+| No. normal closes           | 2518      |
+| Average n fills per day     | 5.78      |
+| Mean hours stuck            | 5.17767   |
+| Max hours stuck             | 203.317   |
+| PNL sum                     | -183.0    |
+| Profit sum                  | 111.7     |
+| Loss sum                    | -294.7    |
+| Fee sum                     | -4.193    |
+| Biggest pos size            | 16686.0   |
+| Biggest pos cost            | 533.5     |
+| Volume quote                | 41930.1   |
++-----------------------------+-----------+
