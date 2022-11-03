@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/particle_swarm/recursive_grid/longonly_01_aggressive_AU/SANDUSDT_20221024062019_1c6b5/config.json
