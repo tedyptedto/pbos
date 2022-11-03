@@ -1,0 +1,44 @@
++-------------------------------------------+
+|                  Summary                  |
++-----------------------------+-------------+
+| Metric                      | Value       |
++-----------------------------+-------------+
+| Exchange                    | binance     |
+| Market type                 | futures     |
+| Symbol                      | DOGEUSDT    |
+| No. days                    | 824.624     |
+| Starting balance            | 1000.0      |
+|                             |             |
+| Long                        | True        |
+| ADG realized per exposure   | 0.554%      |
+| Final balance               | 95392.6     |
+| Final equity                | 95378.2     |
+| Net PNL + fees              | 94392.6     |
+| Total gain                  | 11080.0%    |
+| Average daily gain          | 0.591%      |
+| DG mean std ratio           | 0.2079      |
+| Price action distance mean  | 0.00826201  |
+| Price action distance std   | 0.0108437   |
+| Price action distance max   | 0.822535    |
+| Closest bankruptcy          | 99.81%      |
+| Lowest equity/balance ratio | 0.5482      |
+| Equity/balance ratio std    | 0.008576    |
+| No. fills                   | 969187      |
+| No. entries                 | 866730      |
+| No. closes                  | 102457      |
+| No. initial entries         | 10063       |
+| No. reentries               | 11981       |
+| No. unstuck entries         | 844686      |
+| No. unstuck closes          | 89783       |
+| No. normal closes           | 12674       |
+| Average n fills per day     | 1180.0      |
+| Mean hours stuck            | 0.573336    |
+| Max hours stuck             | 283.217     |
+| PNL sum                     | 110800.0    |
+| Profit sum                  | 371500.0    |
+| Loss sum                    | -260800.0   |
+| Fee sum                     | -16390.0    |
+| Biggest pos size            | 1882790.0   |
+| Biggest pos cost            | 116400.0    |
+| Volume quote                | 163856000.0 |
++-----------------------------+-------------+
