@@ -1,0 +1,1 @@
+Strategy come from : /MDCL/Single_coins_PSO/1000SHIBUSDT_20220909175038_66333/config.json
