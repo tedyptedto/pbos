@@ -1,0 +1,1 @@
+Strategy come from : /MDCL/Update_0.2.2/ATOMUSDT_20220731012131_e1e81/config.json
