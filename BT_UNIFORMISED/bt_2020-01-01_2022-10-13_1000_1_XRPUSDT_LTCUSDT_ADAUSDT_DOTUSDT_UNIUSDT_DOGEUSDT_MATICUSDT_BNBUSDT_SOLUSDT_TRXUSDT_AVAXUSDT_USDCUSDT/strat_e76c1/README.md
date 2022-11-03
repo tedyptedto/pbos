@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/particle_swarm/recursive_grid/longonly_01_lessAU/CELRUSDT_20221029214526_bbc8f/config.json
