@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/particle_swarm/tight_0.3_0.4_long/DOGEUSDT_20221006182110_d1e68/config.json
