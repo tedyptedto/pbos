@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/particle_swarm/recursive_grid/long_short_recursive_AUaggressive/XMRUSDT_20221015073338_6bb93/config.json
