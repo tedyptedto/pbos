@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/1m/5.7.0/MANAUSDT_20220716222523_a0560/config.json
