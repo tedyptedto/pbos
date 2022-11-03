@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/1m/test_phase/0.1.5_scalper_auenabled/MANAUSDT_20220810060826_615ed/config.json
