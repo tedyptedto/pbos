@@ -1,0 +1,1 @@
+Strategy come from : /flyingtoaster/particle_swarm/tests/ps_35%maxgrid_highADG_01/DOTUSDT/live_config.json
