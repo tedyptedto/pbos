@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1m/test_phase/0.2_mediumrisk/DYDXUSDT_20220814082811_1a832/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1m/test_phase/0.2_mediumrisk/DYDXUSDT_20220814082811_1a832/config.json

@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1s/testing/0.1.4_1sdata_auenabled_longshort/DOTUSDT_20220821092943_dd509/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1s/testing/0.1.4_1sdata_auenabled_longshort/DOTUSDT_20220821092943_dd509/config.json

@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/particle_swarm/recursive_grid/longshort_01_lessAU/HBARUSDT_20221028061605_5443b/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm/recursive/longshort_01_lessAU/HBARUSDT_20221028061605_5443b/config.json

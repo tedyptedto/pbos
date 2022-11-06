@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/pso_scalper/PSO_scalper_40%mingrid/DOTUSDT_20220920222828_c4af5/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm/neat/PSO_scalper_40%mingrid/DOTUSDT_20220920222828_c4af5/config.json

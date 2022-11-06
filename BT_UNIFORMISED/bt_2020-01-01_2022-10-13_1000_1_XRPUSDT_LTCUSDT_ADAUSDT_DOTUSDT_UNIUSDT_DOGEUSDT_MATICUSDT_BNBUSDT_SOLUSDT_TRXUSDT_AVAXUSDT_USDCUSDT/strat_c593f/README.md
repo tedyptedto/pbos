@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1m/audisabled/1.6/DOTUSDT_20220725095314_dfd6e/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1m/audisabled/1.6/DOTUSDT_20220725095314_dfd6e/config.json

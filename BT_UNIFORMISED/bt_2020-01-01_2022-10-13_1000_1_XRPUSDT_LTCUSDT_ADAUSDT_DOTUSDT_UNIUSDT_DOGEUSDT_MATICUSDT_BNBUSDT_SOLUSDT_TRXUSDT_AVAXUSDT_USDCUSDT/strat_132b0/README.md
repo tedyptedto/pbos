@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1s/bullish_aggression_longonly/CHZUSDT_20220914093547_c3c81/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1s/bullish_aggression_longonly/CHZUSDT_20220914093547_c3c81/config.json

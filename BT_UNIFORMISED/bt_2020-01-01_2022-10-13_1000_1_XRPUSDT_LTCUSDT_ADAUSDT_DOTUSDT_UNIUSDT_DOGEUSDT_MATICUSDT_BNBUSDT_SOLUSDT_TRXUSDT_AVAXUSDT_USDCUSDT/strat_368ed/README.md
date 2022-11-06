@@ -1,1 +1,1 @@
-Strategy come from : /MDCL/Multi_opti/5_coins/config.json
+Strategy come from : /direct_from_git/MDCL/passivbot-master/PSO_Multi_coins/5_coins/config.json

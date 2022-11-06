@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/particle_swarm/recursive_grid/longonly_01_lessAU/MATICUSDT_20221025165446_860a5/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm/recursive/longonly_01_lessAU/MATICUSDT_20221025165446_860a5/config.json

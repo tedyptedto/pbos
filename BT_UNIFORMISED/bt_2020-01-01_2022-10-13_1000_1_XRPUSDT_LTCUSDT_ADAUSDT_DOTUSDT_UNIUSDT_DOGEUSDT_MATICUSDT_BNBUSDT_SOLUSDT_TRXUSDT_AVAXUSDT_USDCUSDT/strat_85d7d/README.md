@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1m/0.1_auenabled_short/maximum_pa_distance_std_test/DOTUSDT_MAX_PA_DIST_STD_0.010/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1m/0.1_auenabled_short/maximum_pa_distance_std_test/DOTUSDT_MAX_PA_DIST_STD_0.010/config.json

@@ -1,1 +1,1 @@
-Strategy come from : /MDCL/Activebot/bullrun_v1_long.json
+Strategy come from : /direct_from_git/MDCL/passivbot-master/Activebot/bullrun_v1_long.json

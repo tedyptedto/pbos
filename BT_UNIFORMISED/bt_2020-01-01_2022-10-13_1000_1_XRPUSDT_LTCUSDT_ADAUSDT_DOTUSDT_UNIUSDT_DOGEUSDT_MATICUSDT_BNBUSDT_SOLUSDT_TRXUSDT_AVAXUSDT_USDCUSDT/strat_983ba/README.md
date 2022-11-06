@@ -1,1 +1,1 @@
-Strategy come from : /official_PB_config/v5.4.0/recurv_125symbols_300days_AUdisabled_2022-02-28.json
+Strategy come from : /direct_from_git/JohnKearney1/PassivBot-Configurations-main/v5.4.0/recurv_125symbols_300days_AUdisabled_2022-02-28.json

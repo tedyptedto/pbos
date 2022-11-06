@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1s/0.1.2_auenabled_longshort/THETAUSDT_20220807224359_bbacc/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1m/0.1.2_auenabled_longshort/THETAUSDT_20220807224359_bbacc/config.json

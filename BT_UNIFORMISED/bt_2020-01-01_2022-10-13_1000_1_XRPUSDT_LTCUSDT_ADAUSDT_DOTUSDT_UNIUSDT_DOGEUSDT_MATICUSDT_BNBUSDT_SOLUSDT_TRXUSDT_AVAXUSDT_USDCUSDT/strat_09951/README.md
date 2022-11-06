@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/particle_swarm/neat_grid/PSO_0.1.4_reoptimized_new/DOGEUSDT_20220928202229_295aa/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm_testing/PSO_0.1.4_reoptimized_new/DOGEUSDT_20220928202229_295aa/config.json

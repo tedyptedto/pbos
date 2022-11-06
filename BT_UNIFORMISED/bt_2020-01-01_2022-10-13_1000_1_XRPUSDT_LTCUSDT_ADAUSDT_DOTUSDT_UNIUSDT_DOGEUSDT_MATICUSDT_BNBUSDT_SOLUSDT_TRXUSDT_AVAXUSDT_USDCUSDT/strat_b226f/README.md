@@ -1,1 +1,1 @@
-Strategy come from : /MDCL/Update_0.2.3_Multi_120coins_testing/TP_~0.5%/neat_grid_118_coins_0.5%_v2.json
+Strategy come from : /direct_from_git/MDCL/passivbot-master/Harmony_search/Update_0.2.3_Multi_120coins_testing/TP_~0.5%/neat_grid_118_coins_0.5%_v2.json

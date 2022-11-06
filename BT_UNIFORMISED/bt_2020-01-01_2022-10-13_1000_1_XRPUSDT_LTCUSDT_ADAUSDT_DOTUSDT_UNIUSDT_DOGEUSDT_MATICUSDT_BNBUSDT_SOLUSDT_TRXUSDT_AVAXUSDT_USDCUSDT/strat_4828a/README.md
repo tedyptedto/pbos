@@ -1,1 +1,1 @@
-Strategy come from : /official_PB_config/v5.4.0/static_125_symbols_300days_AUenabled.json
+Strategy come from : /direct_from_git/JohnKearney1/PassivBot-Configurations-main/v5.4.0/static_125_symbols_300days_AUenabled.json

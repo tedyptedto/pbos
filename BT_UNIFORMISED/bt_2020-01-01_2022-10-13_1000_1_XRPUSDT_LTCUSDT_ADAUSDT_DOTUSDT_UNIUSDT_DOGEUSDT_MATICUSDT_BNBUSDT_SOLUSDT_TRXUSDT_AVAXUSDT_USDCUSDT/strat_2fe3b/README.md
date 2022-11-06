@@ -1,1 +1,1 @@
-Strategy come from : /MDCL/Single_coins_PSO/1000SHIBUSDT_20220909175038_66333/config.json
+Strategy come from : /direct_from_git/MDCL/passivbot-master/PSO_Single_coins/1000SHIBUSDT/config.json

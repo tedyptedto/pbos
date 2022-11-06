@@ -1,1 +1,1 @@
-Strategy come from : /official_PB_config/v5.7.1/neat_AUenabled_440days_119symbols_2022-07-25.json
+Strategy come from : /direct_from_git/JohnKearney1/PassivBot-Configurations-main/v5.7.1/neat_AUenabled_440days_119symbols_2022-07-25.json

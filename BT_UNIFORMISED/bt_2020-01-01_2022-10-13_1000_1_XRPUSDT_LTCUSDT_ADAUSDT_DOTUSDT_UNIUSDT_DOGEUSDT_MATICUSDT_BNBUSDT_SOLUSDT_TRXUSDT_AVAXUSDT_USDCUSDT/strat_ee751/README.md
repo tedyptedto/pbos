@@ -1,1 +1,1 @@
-Strategy come from : /MDCL/Update_0.2.3/SANDUSDT_20220804003736_fef8f/config.json
+Strategy come from : /direct_from_git/MDCL/passivbot-master/Harmony_search/Update_0.2.3/SANDUSDT_20220804003736_fef8f/config.json

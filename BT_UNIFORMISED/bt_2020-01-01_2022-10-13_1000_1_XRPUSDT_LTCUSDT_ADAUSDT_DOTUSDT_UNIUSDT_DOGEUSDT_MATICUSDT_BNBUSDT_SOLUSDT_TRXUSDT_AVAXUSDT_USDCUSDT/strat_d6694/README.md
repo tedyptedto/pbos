@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1s/bullish_aggression_longonly/DYDXUSDT_20220915000148_1da4c/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1s/bullish_aggression_longonly/DYDXUSDT_20220915000148_1da4c/config.json

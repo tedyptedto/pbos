@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/particle_swarm/tests/ps_40%mingrid_highADG_01/MATICUSDT/live_config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm_testing/tests/ps_40%mingrid_highADG_01/MATICUSDT/live_config.json

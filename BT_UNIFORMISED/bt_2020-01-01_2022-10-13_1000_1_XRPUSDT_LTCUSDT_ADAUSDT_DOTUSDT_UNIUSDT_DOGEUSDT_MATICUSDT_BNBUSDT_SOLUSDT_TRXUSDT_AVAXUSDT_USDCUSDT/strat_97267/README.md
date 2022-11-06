@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/particle_swarm/neat_grid/PSO_30%_MIN_50%_MAX/MATICUSDT_20220911213243_50dd4/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm_testing/PSO_30%_MIN_50%_MAX/MATICUSDT_20220911213243_50dd4/config.json

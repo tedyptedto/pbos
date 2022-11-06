@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/particle_swarm/neat_grid/0.1.4particle_swarm40%grid_1sdata_auenabled_longshort/matic/live_config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm_testing/0.1.4particle_swarm40%grid_1sdata_auenabled_longshort/matic/live_config.json

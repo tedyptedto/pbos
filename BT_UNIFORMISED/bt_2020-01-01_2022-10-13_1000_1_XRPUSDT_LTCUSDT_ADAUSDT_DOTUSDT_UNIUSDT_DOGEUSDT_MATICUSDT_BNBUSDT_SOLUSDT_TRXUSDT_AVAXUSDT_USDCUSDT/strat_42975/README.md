@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1s/testing/recursive_01_test/AVAXUSDT_20220903063921_12718/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1s/testing/recursive_01_test/AVAXUSDT_20220903063921_12718/config.json

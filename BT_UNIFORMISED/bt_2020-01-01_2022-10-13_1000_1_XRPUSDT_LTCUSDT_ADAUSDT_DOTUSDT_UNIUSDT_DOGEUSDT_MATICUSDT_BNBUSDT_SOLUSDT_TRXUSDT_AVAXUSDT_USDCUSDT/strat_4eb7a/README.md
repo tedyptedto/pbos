@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1m/5.7.0/SANDUSDT_20220713151530_949a2/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1m/5.7.0/SANDUSDT_20220713151530_949a2/config.json

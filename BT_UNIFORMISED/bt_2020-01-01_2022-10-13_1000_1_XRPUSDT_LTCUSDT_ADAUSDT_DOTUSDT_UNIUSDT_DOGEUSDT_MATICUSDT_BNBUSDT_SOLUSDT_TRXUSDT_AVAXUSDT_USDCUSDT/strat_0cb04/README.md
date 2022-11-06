@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/particle_swarm/tests/ps_25%maxgrid_highADG_01/matic/matic.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm_testing/tests/ps_25%maxgrid_highADG_01/matic/matic.json

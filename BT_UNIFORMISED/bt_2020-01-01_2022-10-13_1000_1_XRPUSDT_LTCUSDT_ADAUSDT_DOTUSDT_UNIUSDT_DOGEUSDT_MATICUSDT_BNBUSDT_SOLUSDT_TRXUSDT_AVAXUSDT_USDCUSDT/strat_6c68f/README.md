@@ -1,1 +1,1 @@
-Strategy come from : /MDCL/Update_0.2.3/FTMUSDT_20220805024243_57f60/config.json
+Strategy come from : /direct_from_git/MDCL/passivbot-master/Harmony_search/Update_0.2.3/FTMUSDT_20220805024243_57f60/config.json

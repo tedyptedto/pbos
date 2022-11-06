@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1m/test_phase/tight_02_auenabled/MATICUSDT_20220818023409_937fa/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1m/test_phase/tight_02_auenabled/MATICUSDT_20220818023409_937fa/config.json

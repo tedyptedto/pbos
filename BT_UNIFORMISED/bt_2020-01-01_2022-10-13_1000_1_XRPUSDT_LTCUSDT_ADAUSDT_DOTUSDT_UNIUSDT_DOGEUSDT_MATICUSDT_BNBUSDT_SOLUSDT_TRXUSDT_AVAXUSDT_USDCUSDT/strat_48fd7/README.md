@@ -1,1 +1,1 @@
-Strategy come from : /official_PB_config/v5.6.0/ADA_BNB_XMR_XLM_384days.json
+Strategy come from : /direct_from_git/JohnKearney1/PassivBot-Configurations-main/v5.6.0/ADA_BNB_XMR_XLM_384days.json

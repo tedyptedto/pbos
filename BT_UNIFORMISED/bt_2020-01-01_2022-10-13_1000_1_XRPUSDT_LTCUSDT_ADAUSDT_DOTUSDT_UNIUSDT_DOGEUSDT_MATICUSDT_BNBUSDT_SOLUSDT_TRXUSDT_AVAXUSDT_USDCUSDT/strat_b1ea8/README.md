@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/particle_swarm/recursive_grid/long_short_recursive_AUaggressive/DOTUSDT_20221010175504_74553/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm/recursive/long_short_recursive_AUaggressive/DOTUSDT_20221010175504_74553/config.json

@@ -1,1 +1,1 @@
-Strategy come from : /MDCL/Multi_opti/neat_grid_20_symbols_1023_days.json
+Strategy come from : /direct_from_git/MDCL/passivbot-master/PSO_Multi_coins/neat_grid_20_symbols_1023_days.json

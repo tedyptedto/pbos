@@ -1,1 +1,1 @@
-Strategy come from : /MDCL/Update_0.2.3/LINKUSDT_20220805110939_7de7b/config.json
+Strategy come from : /direct_from_git/MDCL/passivbot-master/Harmony_search/Update_0.2.3/LINKUSDT_20220805110939_7de7b/config.json

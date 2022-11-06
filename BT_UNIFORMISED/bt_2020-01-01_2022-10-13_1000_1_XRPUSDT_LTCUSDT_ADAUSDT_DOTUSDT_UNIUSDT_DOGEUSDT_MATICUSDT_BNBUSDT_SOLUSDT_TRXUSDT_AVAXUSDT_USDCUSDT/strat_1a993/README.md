@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/particle_swarm/neat_grid/particle_swarm_defaults/matic/matic_ps_default.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm_testing/particle_swarm_defaults/matic/matic_ps_default.json

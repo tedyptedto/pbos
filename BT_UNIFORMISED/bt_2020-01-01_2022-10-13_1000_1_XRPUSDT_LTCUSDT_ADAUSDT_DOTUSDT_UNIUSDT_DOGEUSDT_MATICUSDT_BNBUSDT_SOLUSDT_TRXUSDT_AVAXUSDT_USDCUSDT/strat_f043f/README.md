@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/particle_swarm/tight_0.3_0.4_long/DYDXUSDT_20221006182110_d1e68/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm/neat/tight_0.3_0.4_long/DYDXUSDT_20221006182110_d1e68/config.json

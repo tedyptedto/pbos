@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1m/mdcl_hardcore_scalp/AVAXUSDT_20220818203915_b4260/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1m/mdcl_hardcore_scalp/AVAXUSDT_20220818203915_b4260/config.json

@@ -1,1 +1,1 @@
-Strategy come from : /MDCL/Update_0.2.1/MANAUSDT_0.2.1/config.json
+Strategy come from : /direct_from_git/MDCL/passivbot-master/Harmony_search/Update_0.2.1/MANAUSDT_0.2.1/config.json

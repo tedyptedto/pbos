@@ -1,1 +1,1 @@
-Strategy come from : /flyingtoaster/1m/test_phase/harcore_scalp_0.1/SANDUSDT_20220811094442_bb7b5/config.json
+Strategy come from : /direct_from_git/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1m/test_phase/harcore_scalp_0.1/SANDUSDT_20220811094442_bb7b5/config.json

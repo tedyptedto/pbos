@@ -1,1 +1,1 @@
-Strategy come from : /official_PB_config/v5.7.0/neat_426days_119symbols_AUenabled.json
+Strategy come from : /direct_from_git/MDCL/passivbot-master/Configs/5.7.0/Neat Grid Auto Unstuck Enable/Multi-Opti/neat_grid_119_symbols_426days_enarjord.json

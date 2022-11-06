@@ -1,1 +1,1 @@
-Strategy come from : /official_PB_config/v5.6.0/2022-06-25_static_AUenabled.json
+Strategy come from : /direct_from_git/JohnKearney1/PassivBot-Configurations-main/v5.6.0/2022-06-25_static_AUenabled.json

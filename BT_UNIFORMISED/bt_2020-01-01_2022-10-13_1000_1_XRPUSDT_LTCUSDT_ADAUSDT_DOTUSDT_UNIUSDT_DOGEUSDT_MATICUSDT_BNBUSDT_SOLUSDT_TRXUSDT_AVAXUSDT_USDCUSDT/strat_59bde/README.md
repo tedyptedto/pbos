@@ -1,1 +1,1 @@
-Strategy come from : /official_PB_config/v5.6.0/2022-05-23_recursive_AUenabled_124symbols_410days.json
+Strategy come from : /direct_from_git/JohnKearney1/PassivBot-Configurations-main/v5.6.0/2022-05-23_recursive_AUenabled_124symbols_410days.json

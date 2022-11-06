@@ -1,1 +1,1 @@
-Strategy come from : /MDCL/Opti-PSO/neat_grid_MATICUSDT_679days.json
+Strategy come from : /direct_from_git/MDCL/passivbot-master/PSO_Single_coins/MATICUSDT/neat_grid_MATICUSDT_679days.json
