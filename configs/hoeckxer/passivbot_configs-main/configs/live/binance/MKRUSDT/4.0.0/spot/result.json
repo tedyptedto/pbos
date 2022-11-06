@@ -1,0 +1,340 @@
+{
+    "market_type": "spot",
+    "user": "binance_01",
+    "symbol": "MKRUSDT",
+    "latency_simulation_ms": 1000,
+    "starting_balance": 1000,
+    "start_date": "2021-01-01T00:00",
+    "end_date": "2021-07-31T00:00",
+    "iters": 25000,
+    "num_cpus": 4,
+    "options": {
+        "c1": 1.4962,
+        "c2": 1.4962,
+        "w": 0.7298
+    },
+    "n_particles": 48,
+    "break_early_factor": 0.5,
+    "periodic_gain_n_days": 7,
+    "minimum_sharpe_ratio": 1,
+    "minimum_bankruptcy_distance": 0.5,
+    "minimum_equity_balance_ratio": 0.5,
+    "minimum_slice_adg": 1,
+    "maximum_hrs_no_fills": 72,
+    "maximum_hrs_no_fills_same_side": 168,
+    "maximum_mean_hrs_between_fills": 10,
+    "sliding_window_days": 25,
+    "reward_multiplier_base": 1.2,
+    "metric": "adjusted_daily_gain",
+    "n_spans": 3,
+    "do_long": true,
+    "do_shrt": false,
+    "ranges": {
+        "min_span": [
+            20,
+            1440
+        ],
+        "max_span": [
+            1440,
+            30000
+        ],
+        "MAr_coeffs": [
+            -0.4,
+            0.4
+        ],
+        "long\u00a3rprc_PBr_coeffs": [
+            -1,
+            0.1
+        ],
+        "long\u00a3pbr_stop_loss": [
+            0,
+            1
+        ],
+        "long\u00a3pbr_limit": [
+            0,
+            1
+        ],
+        "long\u00a3iqty_const": [
+            0.01,
+            0.5
+        ],
+        "long\u00a3iprc_const": [
+            0.97,
+            1.01
+        ],
+        "long\u00a3rqty_const": [
+            0,
+            2
+        ],
+        "long\u00a3rprc_const": [
+            0.97,
+            1
+        ],
+        "long\u00a3markup_const": [
+            1,
+            1.03
+        ],
+        "shrt\u00a3rprc_PBr_coeffs": [
+            -0.1,
+            1
+        ],
+        "shrt\u00a3pbr_stop_loss": [
+            0,
+            1
+        ],
+        "shrt\u00a3pbr_limit": [
+            0,
+            1
+        ],
+        "shrt\u00a3iqty_const": [
+            0.01,
+            0.5
+        ],
+        "shrt\u00a3iprc_const": [
+            0.99,
+            1.03
+        ],
+        "shrt\u00a3rqty_const": [
+            0,
+            2
+        ],
+        "shrt\u00a3rprc_const": [
+            1,
+            1.03
+        ],
+        "shrt\u00a3markup_const": [
+            0.97,
+            1
+        ]
+    },
+    "starting_configs": null,
+    "base_dir": "backtests",
+    "spot": true,
+    "exchange": "binance",
+    "session_name": "2021-01-01T0000_2021-07-31T0000",
+    "caches_dirpath": "backtests/binance_spot/MKRUSDT/caches/",
+    "optimize_dirpath": "backtests/binance_spot/MKRUSDT/optimize/",
+    "plots_dirpath": "backtests/binance_spot/MKRUSDT/plots/2021-08-22T162645/",
+    "avg_periodic_gain_key": "avg_7days_gain",
+    "maker_fee": 0.001,
+    "taker_fee": 0.001,
+    "hedge_mode": false,
+    "inverse": false,
+    "max_leverage": 25,
+    "min_qty": 1e-05,
+    "min_cost": 10.0,
+    "qty_step": 1e-05,
+    "price_step": 0.01,
+    "c_mult": 1.0,
+    "config_name": "binance_mkrusdt_211days",
+    "logging_level": 0,
+    "long": {
+        "enabled": true,
+        "iprc_MAr_coeffs": [
+            [
+                -0.029787137148698413,
+                0.21603132282379256
+            ],
+            [
+                -0.4375445834685654,
+                0.34842973364718194
+            ],
+            [
+                0.4510927086734194,
+                0.021939318024791384
+            ]
+        ],
+        "iprc_const": 0.985748156616819,
+        "iqty_MAr_coeffs": [
+            [
+                0.29289113948156437,
+                -0.08570952671818842
+            ],
+            [
+                0.40648140524840926,
+                0.29018548205168737
+            ],
+            [
+                -0.019331316639012507,
+                0.47074429994677025
+            ]
+        ],
+        "iqty_const": 0.03280302837296072,
+        "markup_MAr_coeffs": [
+            [
+                0.21738134310899676,
+                0.382675807746607
+            ],
+            [
+                -0.25962214140261175,
+                0.4066970081806865
+            ],
+            [
+                0.04810943963720073,
+                0.08105371641362716
+            ]
+        ],
+        "markup_const": 1.0088237450781012,
+        "pbr_limit": 0.0284772798498788,
+        "pbr_stop_loss": 0.9715227201501212,
+        "rprc_MAr_coeffs": [
+            [
+                0.04191488459359298,
+                0.037871472363607925
+            ],
+            [
+                0.07193079368129911,
+                -0.4108734639111245
+            ],
+            [
+                -0.10023110458736877,
+                0.039728931139136364
+            ]
+        ],
+        "rprc_PBr_coeffs": [
+            [
+                0.1445761258756588,
+                -0.09841503462071972
+            ]
+        ],
+        "rprc_const": 0.9808263041147796,
+        "rqty_MAr_coeffs": [
+            [
+                -0.07986854459431793,
+                -0.3389974298546417
+            ],
+            [
+                0.5,
+                0.12144917814667114
+            ],
+            [
+                0.07505178280304761,
+                -0.2918756915184297
+            ]
+        ],
+        "rqty_const": 0.7870523209322401
+    },
+    "max_span": 5373.515164567736,
+    "min_span": 256.49272145937255,
+    "shrt": {
+        "enabled": false,
+        "iprc_MAr_coeffs": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "iprc_const": 0.0,
+        "iqty_MAr_coeffs": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "iqty_const": 0.0,
+        "markup_MAr_coeffs": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "markup_const": 0.0,
+        "pbr_limit": 0.0,
+        "pbr_stop_loss": 0.0,
+        "rprc_MAr_coeffs": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "rprc_PBr_coeffs": [
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "rprc_const": 0.0,
+        "rqty_MAr_coeffs": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "rqty_const": 0.0
+    },
+    "n_days": 211.0,
+    "result": {
+        "exchange": "binance",
+        "symbol": "MKRUSDT",
+        "starting_balance": 1000,
+        "final_balance": 4134.729345321154,
+        "final_equity": 4134.729345321154,
+        "net_pnl_plus_fees": 3134.7293453211582,
+        "gain": 4.134729345321154,
+        "n_days": 210.99966435185186,
+        "average_daily_gain": 1.0067498065302227,
+        "average_periodic_gain": 0.050403508409989556,
+        "adjusted_daily_gain": 1.067395744956038,
+        "sharpe_ratio": 0.6102625410974264,
+        "profit_sum": 3343.108536182856,
+        "loss_sum": -21.425248111416092,
+        "fee_sum": -186.953942750282,
+        "lowest_eqbal_ratio": 0.6078941694642176,
+        "closest_bkr": 0.9996713592129561,
+        "n_fills": 1246,
+        "n_entries": 617,
+        "n_closes": 629,
+        "n_reentries": 356,
+        "n_initial_entries": 261,
+        "n_normal_closes": 345,
+        "n_stop_loss_closes": 284,
+        "biggest_psize": 1.96874,
+        "mean_hrs_between_fills": 4.060939811102201,
+        "mean_hrs_between_fills_long": 4.060939811102201,
+        "mean_hrs_between_fills_shrt": 0.0,
+        "max_hrs_no_fills_long": 89.61611111111111,
+        "max_hrs_no_fills_shrt": 0.0,
+        "max_hrs_no_fills_same_side": 89.61611111111111,
+        "max_hrs_no_fills": 89.61611111111111
+    }
+}

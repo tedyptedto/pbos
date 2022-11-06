@@ -1,0 +1,340 @@
+{
+    "market_type": "spot",
+    "user": "binance_01",
+    "symbol": "THETAUSDT",
+    "latency_simulation_ms": 1000,
+    "starting_balance": 1000,
+    "start_date": "2021-01-01T00:00",
+    "end_date": "2021-07-31T00:00",
+    "iters": 25000,
+    "num_cpus": 4,
+    "options": {
+        "c1": 1.4962,
+        "c2": 1.4962,
+        "w": 0.7298
+    },
+    "n_particles": 48,
+    "break_early_factor": 0.5,
+    "periodic_gain_n_days": 7,
+    "minimum_sharpe_ratio": 1,
+    "minimum_bankruptcy_distance": 0.5,
+    "minimum_equity_balance_ratio": 0.5,
+    "minimum_slice_adg": 1,
+    "maximum_hrs_no_fills": 72,
+    "maximum_hrs_no_fills_same_side": 168,
+    "maximum_mean_hrs_between_fills": 10,
+    "sliding_window_days": 25,
+    "reward_multiplier_base": 1.2,
+    "metric": "adjusted_daily_gain",
+    "n_spans": 3,
+    "do_long": true,
+    "do_shrt": false,
+    "ranges": {
+        "min_span": [
+            20,
+            1440
+        ],
+        "max_span": [
+            1440,
+            30000
+        ],
+        "MAr_coeffs": [
+            -0.4,
+            0.4
+        ],
+        "long\u00a3rprc_PBr_coeffs": [
+            -1,
+            0.1
+        ],
+        "long\u00a3pbr_stop_loss": [
+            0,
+            1
+        ],
+        "long\u00a3pbr_limit": [
+            0,
+            1
+        ],
+        "long\u00a3iqty_const": [
+            0.01,
+            0.5
+        ],
+        "long\u00a3iprc_const": [
+            0.97,
+            1.01
+        ],
+        "long\u00a3rqty_const": [
+            0,
+            2
+        ],
+        "long\u00a3rprc_const": [
+            0.97,
+            1
+        ],
+        "long\u00a3markup_const": [
+            1,
+            1.03
+        ],
+        "shrt\u00a3rprc_PBr_coeffs": [
+            -0.1,
+            1
+        ],
+        "shrt\u00a3pbr_stop_loss": [
+            0,
+            1
+        ],
+        "shrt\u00a3pbr_limit": [
+            0,
+            1
+        ],
+        "shrt\u00a3iqty_const": [
+            0.01,
+            0.5
+        ],
+        "shrt\u00a3iprc_const": [
+            0.99,
+            1.03
+        ],
+        "shrt\u00a3rqty_const": [
+            0,
+            2
+        ],
+        "shrt\u00a3rprc_const": [
+            1,
+            1.03
+        ],
+        "shrt\u00a3markup_const": [
+            0.97,
+            1
+        ]
+    },
+    "starting_configs": null,
+    "base_dir": "backtests",
+    "spot": true,
+    "exchange": "binance",
+    "session_name": "2021-01-01T0000_2021-07-31T0000",
+    "caches_dirpath": "backtests/binance_spot/THETAUSDT/caches/",
+    "optimize_dirpath": "backtests/binance_spot/THETAUSDT/optimize/",
+    "plots_dirpath": "backtests/binance_spot/THETAUSDT/plots/2021-08-25T123536/",
+    "avg_periodic_gain_key": "avg_7days_gain",
+    "maker_fee": 0.001,
+    "taker_fee": 0.001,
+    "hedge_mode": false,
+    "inverse": false,
+    "max_leverage": 25,
+    "min_qty": 0.001,
+    "min_cost": 10.0,
+    "qty_step": 0.001,
+    "price_step": 0.001,
+    "c_mult": 1.0,
+    "config_name": "binance_thetausdt_211days",
+    "logging_level": 0,
+    "long": {
+        "enabled": true,
+        "iprc_MAr_coeffs": [
+            [
+                -0.3079961124240832,
+                -0.5510714614696566
+            ],
+            [
+                0.22201143125959996,
+                0.8001743065907103
+            ],
+            [
+                0.17904145882551556,
+                0.32391258432356096
+            ]
+        ],
+        "iprc_const": 0.9795696808812335,
+        "iqty_MAr_coeffs": [
+            [
+                0.037975044271153856,
+                0.74701380589847
+            ],
+            [
+                -0.8333759249538878,
+                -0.4571882241583462
+            ],
+            [
+                -0.14850978164511963,
+                -0.46470740911820213
+            ]
+        ],
+        "iqty_const": 0.015668222263405595,
+        "markup_MAr_coeffs": [
+            [
+                -0.5984385952128752,
+                0.27011480809964455
+            ],
+            [
+                0.218756396946953,
+                0.6755656791042484
+            ],
+            [
+                -0.6161979561081026,
+                0.6288726351880449
+            ]
+        ],
+        "markup_const": 1.0284854215478503,
+        "pbr_limit": 0.4310788709801415,
+        "pbr_stop_loss": 0.5689211290198585,
+        "rprc_MAr_coeffs": [
+            [
+                0.18549801522022058,
+                0.17806069478209255
+            ],
+            [
+                0.7740171945894463,
+                0.7609181788768768
+            ],
+            [
+                0.7679206911867713,
+                -0.3625126827292816
+            ]
+        ],
+        "rprc_PBr_coeffs": [
+            [
+                0.2660930099629285,
+                -0.15274755832955736
+            ]
+        ],
+        "rprc_const": 0.9783194079273675,
+        "rqty_MAr_coeffs": [
+            [
+                0.23047892759527516,
+                -0.45035472967187057
+            ],
+            [
+                0.5337014360037944,
+                -0.482137382381473
+            ],
+            [
+                0.8590897383060456,
+                0.45695036484176926
+            ]
+        ],
+        "rqty_const": 0.41497822233266957
+    },
+    "max_span": 2172.8848616306022,
+    "min_span": 1180.5336546552785,
+    "shrt": {
+        "enabled": false,
+        "iprc_MAr_coeffs": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "iprc_const": 0.0,
+        "iqty_MAr_coeffs": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "iqty_const": 0.0,
+        "markup_MAr_coeffs": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "markup_const": 0.0,
+        "pbr_limit": 0.0,
+        "pbr_stop_loss": 0.0,
+        "rprc_MAr_coeffs": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "rprc_PBr_coeffs": [
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "rprc_const": 0.0,
+        "rqty_MAr_coeffs": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0
+            ]
+        ],
+        "rqty_const": 0.0
+    },
+    "n_days": 211.0,
+    "result": {
+        "exchange": "binance",
+        "symbol": "THETAUSDT",
+        "starting_balance": 1000,
+        "final_balance": 4550.82457894444,
+        "final_equity": 4550.82457894444,
+        "net_pnl_plus_fees": 3550.824578944434,
+        "gain": 4.55082457894444,
+        "n_days": 210.99993055555555,
+        "average_daily_gain": 1.0072074082008011,
+        "average_periodic_gain": 0.05614227668286472,
+        "adjusted_daily_gain": 1.0719495403464974,
+        "sharpe_ratio": 1.2767971751458567,
+        "profit_sum": 4285.960791044785,
+        "loss_sum": -456.4996303061892,
+        "fee_sum": -278.63658179416126,
+        "lowest_eqbal_ratio": 0.4873660172864367,
+        "closest_bkr": 0.9996474346300115,
+        "n_fills": 1532,
+        "n_entries": 1167,
+        "n_closes": 365,
+        "n_reentries": 919,
+        "n_initial_entries": 248,
+        "n_normal_closes": 300,
+        "n_stop_loss_closes": 65,
+        "biggest_psize": 844.178,
+        "mean_hrs_between_fills": 3.303325722983257,
+        "mean_hrs_between_fills_long": 3.303325722983257,
+        "mean_hrs_between_fills_shrt": 0.0,
+        "max_hrs_no_fills_long": 97.58583333333333,
+        "max_hrs_no_fills_shrt": 0.0,
+        "max_hrs_no_fills_same_side": 97.58583333333333,
+        "max_hrs_no_fills": 97.58583333333333
+    }
+}

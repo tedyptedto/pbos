@@ -1,0 +1,33 @@
+{
+    "config_name": "ada_session_004_8_days_no_stops_liq_diff_5%",
+    "symbol": "ADAUSDT",
+    "logging_level": 0,
+    "cross_mode": true,
+    "balance_pct": 0.83,
+    "ddown_factor": 2.388,
+    "entry_qty_pct": 0.03317,
+    "min_close_qty_multiplier": 0.81,
+    "leverage": 20.0,
+    "n_entry_orders": 8,
+    "n_close_orders": 15.0,
+    "grid_spacing": 0.0007,
+    "grid_coefficient": 314.86,
+    "min_markup": 0.00177,
+    "max_markup": 0.02917,
+    "indicator_settings": {
+        "do_long": true,
+        "do_shrt": true,
+        "funding_fee_collect_mode": false,
+        "ohlcv_rsi": {
+            "n_periods": 21,
+            "period_ms": 1800000
+        },
+        "tick_ema": {
+            "span": 6102.0
+        }
+    },
+    "market_stop_loss": false,
+    "stop_loss_liq_diff": 0.045,
+    "stop_loss_pos_price_diff": 99.9,
+    "stop_loss_pos_reduction": 0.2
+}
