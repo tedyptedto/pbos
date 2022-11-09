@@ -1,0 +1,1 @@
+Strategy come from : /configs/MDCL/passivbot-master/Configs/5.6.0/Recursive Grid/Multi-Opti/recursive_grid_142_symbols_932days.json
