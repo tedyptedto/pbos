@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | UNIUSDT   |
+| No. days                    | 754.708   |
+| Starting balance            | 1000.0    |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.105%    |
+| Final balance               | 2214.03   |
+| Final equity                | 2207.66   |
+| Net PNL + fees              | 1214.03   |
+| Total gain                  | 128.8%    |
+| Average daily gain          | 0.127%    |
+| DG mean std ratio           | 0.06144   |
+| Price action distance mean  | 0.0156176 |
+| Price action distance std   | 0.0278868 |
+| Price action distance max   | 0.908568  |
+| Closest bankruptcy          | 99.64%    |
+| Lowest equity/balance ratio | 0.5231    |
+| Equity/balance ratio std    | 0.02087   |
+| No. fills                   | 18532     |
+| No. entries                 | 10423     |
+| No. closes                  | 8109      |
+| No. initial entries         | 4297      |
+| No. reentries               | 5482      |
+| No. unstuck entries         | 644       |
+| No. unstuck closes          | 2733      |
+| No. normal closes           | 5376      |
+| Average n fills per day     | 24.6      |
+| Mean hours stuck            | 1.51904   |
+| Max hours stuck             | 77.9      |
+| PNL sum                     | 1288.0    |
+| Profit sum                  | 2876.0    |
+| Loss sum                    | -1588.0   |
+| Fee sum                     | -74.09    |
+| Biggest pos size            | 473.7     |
+| Biggest pos cost            | 2302.0    |
+| Volume quote                | 740945.0  |
++-----------------------------+-----------+
