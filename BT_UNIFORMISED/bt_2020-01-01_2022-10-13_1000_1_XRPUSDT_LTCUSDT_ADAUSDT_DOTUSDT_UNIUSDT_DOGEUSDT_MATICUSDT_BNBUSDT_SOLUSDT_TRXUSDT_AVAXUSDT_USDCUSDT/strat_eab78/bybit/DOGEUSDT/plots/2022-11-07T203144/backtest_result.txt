@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | DOGEUSDT   |
+| No. days                    | 824.625    |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.258%     |
+| Final balance               | 8380.81    |
+| Final equity                | 8380.24    |
+| Net PNL + fees              | 7380.81    |
+| Total gain                  | 852.5%     |
+| Average daily gain          | 0.28%      |
+| DG mean std ratio           | 0.126      |
+| Price action distance mean  | 0.00959628 |
+| Price action distance std   | 0.0128868  |
+| Price action distance max   | 0.870082   |
+| Closest bankruptcy          | 99.99%     |
+| Lowest equity/balance ratio | 0.5347     |
+| Equity/balance ratio std    | 0.00977    |
+| No. fills                   | 55330      |
+| No. entries                 | 28000      |
+| No. closes                  | 27330      |
+| No. initial entries         | 18961      |
+| No. reentries               | 8567       |
+| No. unstuck entries         | 472        |
+| No. unstuck closes          | 7411       |
+| No. normal closes           | 19919      |
+| Average n fills per day     | 67.1       |
+| Mean hours stuck            | 0.762277   |
+| Max hours stuck             | 283.217    |
+| PNL sum                     | 8525.0     |
+| Profit sum                  | 26210.0    |
+| Loss sum                    | -17690.0   |
+| Fee sum                     | -1144.0    |
+| Biggest pos size            | 401180.0   |
+| Biggest pos cost            | 10690.0    |
+| Volume quote                | 11444800.0 |
++-----------------------------+------------+
