@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/old/5.7.0_old/neat_grid/sand_shortonly/live_config.json
