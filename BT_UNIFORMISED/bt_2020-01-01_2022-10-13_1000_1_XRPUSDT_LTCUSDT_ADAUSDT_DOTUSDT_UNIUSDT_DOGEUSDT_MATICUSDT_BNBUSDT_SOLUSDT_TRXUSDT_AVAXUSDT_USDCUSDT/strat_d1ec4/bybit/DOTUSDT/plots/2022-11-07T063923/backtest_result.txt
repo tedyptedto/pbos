@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | DOTUSDT   |
+| No. days                    | 781.708   |
+| Starting balance            | 1000.0    |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.177%    |
+| Final balance               | 3971.97   |
+| Final equity                | 3969.1    |
+| Net PNL + fees              | 2971.97   |
+| Total gain                  | 305.3%    |
+| Average daily gain          | 0.185%    |
+| DG mean std ratio           | 0.1446    |
+| Price action distance mean  | 0.0118454 |
+| Price action distance std   | 0.0156076 |
+| Price action distance max   | 0.928784  |
+| Closest bankruptcy          | 99.65%    |
+| Lowest equity/balance ratio | 0.5176    |
+| Equity/balance ratio std    | 0.01063   |
+| No. fills                   | 11374     |
+| No. entries                 | 5961      |
+| No. closes                  | 5413      |
+| No. initial entries         | 3870      |
+| No. reentries               | 1857      |
+| No. unstuck entries         | 234       |
+| No. unstuck closes          | 625       |
+| No. normal closes           | 4788      |
+| Average n fills per day     | 14.6      |
+| Mean hours stuck            | 2.5806    |
+| Max hours stuck             | 62.5      |
+| PNL sum                     | 3053.0    |
+| Profit sum                  | 3413.0    |
+| Loss sum                    | -359.7    |
+| Fee sum                     | -80.99    |
+| Biggest pos size            | 504.3     |
+| Biggest pos cost            | 3799.0    |
+| Volume quote                | 809943.0  |
++-----------------------------+-----------+
