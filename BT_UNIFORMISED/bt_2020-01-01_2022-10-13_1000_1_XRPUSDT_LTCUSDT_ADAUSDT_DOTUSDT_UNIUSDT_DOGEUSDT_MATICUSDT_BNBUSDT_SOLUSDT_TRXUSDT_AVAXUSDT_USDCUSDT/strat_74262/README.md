@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm/neat/PSO_scalper_40%mingrid/AVAXUSDT_20220921174202_28b6c/config.json
