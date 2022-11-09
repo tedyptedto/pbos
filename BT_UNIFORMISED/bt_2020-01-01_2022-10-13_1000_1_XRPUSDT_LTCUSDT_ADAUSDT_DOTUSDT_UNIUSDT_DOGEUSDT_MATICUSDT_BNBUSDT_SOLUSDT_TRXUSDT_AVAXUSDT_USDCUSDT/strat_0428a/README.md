@@ -1,0 +1,1 @@
+Strategy come from : /configs/JohnKearney1/PassivBot-Configurations-main/v5.7.1/neat_119symbols_440days_2022-08-07.json
