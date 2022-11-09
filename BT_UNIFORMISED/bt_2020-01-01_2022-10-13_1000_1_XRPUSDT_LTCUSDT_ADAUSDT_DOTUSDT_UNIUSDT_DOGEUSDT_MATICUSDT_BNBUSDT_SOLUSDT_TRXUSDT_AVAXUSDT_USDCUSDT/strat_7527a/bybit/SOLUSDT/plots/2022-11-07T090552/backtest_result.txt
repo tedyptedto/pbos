@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | SOLUSDT    |
+| No. days                    | 758.708    |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.172%     |
+| Final balance               | 3675.48    |
+| Final equity                | 3666.4     |
+| Net PNL + fees              | 2675.48    |
+| Total gain                  | 276.9%     |
+| Average daily gain          | 0.174%     |
+| DG mean std ratio           | 0.2472     |
+| Price action distance mean  | 0.0114876  |
+| Price action distance std   | 0.00904551 |
+| Price action distance max   | 0.266149   |
+| Closest bankruptcy          | 99.28%     |
+| Lowest equity/balance ratio | 0.7894     |
+| Equity/balance ratio std    | 0.00447    |
+| No. fills                   | 20993      |
+| No. entries                 | 13272      |
+| No. closes                  | 7721       |
+| No. initial entries         | 4639       |
+| No. reentries               | 8151       |
+| No. unstuck entries         | 482        |
+| No. unstuck closes          | 1499       |
+| No. normal closes           | 6222       |
+| Average n fills per day     | 27.7       |
+| Mean hours stuck            | 1.22077    |
+| Max hours stuck             | 48.25      |
+| PNL sum                     | 2769.0     |
+| Profit sum                  | 3397.0     |
+| Loss sum                    | -628.2     |
+| Fee sum                     | -93.16     |
+| Biggest pos size            | 970.7      |
+| Biggest pos cost            | 3706.0     |
+| Volume quote                | 931639.0   |
++-----------------------------+------------+
