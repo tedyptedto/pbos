@@ -1,0 +1,1 @@
+Strategy come from : /configs/MDCL/passivbot-master/Configs/5.7.0/Neat Grid Auto Unstuck Enable/Multi-Opti/Long Only/neat_grid_32_symbols_975days_v1.json
