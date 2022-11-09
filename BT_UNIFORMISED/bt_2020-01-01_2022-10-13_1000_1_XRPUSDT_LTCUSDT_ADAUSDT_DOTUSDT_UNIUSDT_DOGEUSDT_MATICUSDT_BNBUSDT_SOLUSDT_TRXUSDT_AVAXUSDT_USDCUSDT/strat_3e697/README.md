@@ -1,0 +1,1 @@
+Strategy come from : /configs/MDCL/passivbot-master/Configs/5.7.0/Neat Grid Auto Unstuck Enable/Scalping/AVAXUSDT 0.2/Bybit_plots/result.json
