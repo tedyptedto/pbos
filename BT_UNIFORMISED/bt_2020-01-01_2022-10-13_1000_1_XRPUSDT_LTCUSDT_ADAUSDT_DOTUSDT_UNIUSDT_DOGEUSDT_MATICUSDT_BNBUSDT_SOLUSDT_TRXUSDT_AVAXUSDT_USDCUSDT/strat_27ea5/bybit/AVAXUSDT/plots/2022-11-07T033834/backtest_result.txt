@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | AVAXUSDT   |
+| No. days                    | 749.708    |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.114%     |
+| Final balance               | 2343.85    |
+| Final equity                | 2343.75    |
+| Net PNL + fees              | 1343.85    |
+| Total gain                  | 227.4%     |
+| Average daily gain          | 0.166%     |
+| DG mean std ratio           | 0.05665    |
+| Price action distance mean  | 0.00685401 |
+| Price action distance std   | 0.0123872  |
+| Price action distance max   | 0.761499   |
+| Closest bankruptcy          | 99.09%     |
+| Lowest equity/balance ratio | 0.5668     |
+| Equity/balance ratio std    | 0.01145    |
+| No. fills                   | 133029     |
+| No. entries                 | 82563      |
+| No. closes                  | 50466      |
+| No. initial entries         | 20744      |
+| No. reentries               | 53365      |
+| No. unstuck entries         | 8454       |
+| No. unstuck closes          | 25214      |
+| No. normal closes           | 25252      |
+| Average n fills per day     | 177.0      |
+| Mean hours stuck            | 0.300028   |
+| Max hours stuck             | 26.8667    |
+| PNL sum                     | 2274.0     |
+| Profit sum                  | 21500.0    |
+| Loss sum                    | -19230.0   |
+| Fee sum                     | -929.9     |
+| Biggest pos size            | 405.4      |
+| Biggest pos cost            | 5126.0     |
+| Volume quote                | 9299220.0  |
++-----------------------------+------------+
