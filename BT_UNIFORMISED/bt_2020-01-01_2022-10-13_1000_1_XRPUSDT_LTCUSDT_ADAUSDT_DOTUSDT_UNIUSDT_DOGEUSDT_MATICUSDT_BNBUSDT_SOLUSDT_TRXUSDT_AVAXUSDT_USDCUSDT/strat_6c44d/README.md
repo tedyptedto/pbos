@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/1s/aggression1/DYDXUSDT_20220916083737_a19e6/config.json
