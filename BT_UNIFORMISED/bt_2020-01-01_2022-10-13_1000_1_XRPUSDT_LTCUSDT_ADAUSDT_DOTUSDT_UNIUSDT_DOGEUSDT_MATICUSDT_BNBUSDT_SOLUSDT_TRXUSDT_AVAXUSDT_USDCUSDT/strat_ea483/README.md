@@ -1,0 +1,1 @@
+Strategy come from : /configs/MDCL/passivbot-master/PSO_Multi_coins/PSO_Multi5coins_BTC_ETH/neat_grid_5_symbols_1035days.json
