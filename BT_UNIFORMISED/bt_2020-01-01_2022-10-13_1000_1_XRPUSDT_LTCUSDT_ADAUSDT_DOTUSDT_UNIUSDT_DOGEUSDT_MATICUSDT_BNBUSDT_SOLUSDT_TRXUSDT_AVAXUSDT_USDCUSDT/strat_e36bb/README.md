@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm_testing/aggressive_longonly/SOLUSDT_20221002053019_364f6/config.json
