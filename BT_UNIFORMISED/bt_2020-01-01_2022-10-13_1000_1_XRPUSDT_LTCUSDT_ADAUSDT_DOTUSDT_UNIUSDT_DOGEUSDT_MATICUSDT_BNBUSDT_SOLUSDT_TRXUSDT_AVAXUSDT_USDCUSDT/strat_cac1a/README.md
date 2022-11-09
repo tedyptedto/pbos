@@ -1,0 +1,1 @@
+Strategy come from : /configs/MDCL/passivbot-master/PSO_Multi_coins/PSO_Multi4_test_new_grid/config.json
