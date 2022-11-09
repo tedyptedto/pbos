@@ -1,0 +1,1 @@
+Strategy come from : /configs/MDCL/passivbot-master/PSO_Multi_coins/PSO_Multi19/config.json
