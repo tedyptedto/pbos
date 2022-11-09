@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm_testing/tests/0.15maxpadist/ATOMUSDT_20220918164021_58038/config.json
