@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm_testing/pso_scalper_testing/testing/v55/MATICUSDT_20220925163206_29a54/config.json
