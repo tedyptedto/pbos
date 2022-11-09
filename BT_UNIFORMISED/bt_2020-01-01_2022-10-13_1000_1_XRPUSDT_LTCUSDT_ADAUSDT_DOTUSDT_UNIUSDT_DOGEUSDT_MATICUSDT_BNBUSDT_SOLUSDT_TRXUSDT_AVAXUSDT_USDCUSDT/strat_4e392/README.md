@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm_testing/tests/PSO_40%MINGRID_v1/MATICUSDT_20220918082533_8aad3/config.json
