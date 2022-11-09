@@ -1,0 +1,1 @@
+Strategy come from : /configs/JohnKearney1/PassivBot-Configurations-main/v5.7.1/pso_neat_118_symbols_501days_2022-08-30.json
