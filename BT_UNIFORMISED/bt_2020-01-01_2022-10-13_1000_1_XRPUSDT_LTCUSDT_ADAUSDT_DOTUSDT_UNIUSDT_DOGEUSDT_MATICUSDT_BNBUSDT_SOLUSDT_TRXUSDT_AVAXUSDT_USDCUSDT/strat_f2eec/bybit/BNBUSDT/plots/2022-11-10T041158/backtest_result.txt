@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | BNBUSDT    |
+| No. days                    | 975.665    |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.0739%    |
+| Final balance               | 2055.27    |
+| Final equity                | 2052.67    |
+| Net PNL + fees              | 1055.27    |
+| Total gain                  | 125.8%     |
+| Average daily gain          | 0.0859%    |
+| DG mean std ratio           | 0.05701    |
+| Price action distance mean  | 0.00689474 |
+| Price action distance std   | 0.0082275  |
+| Price action distance max   | 0.652904   |
+| Closest bankruptcy          | 99.03%     |
+| Lowest equity/balance ratio | 0.6043     |
+| Equity/balance ratio std    | 0.006033   |
+| No. fills                   | 25257      |
+| No. entries                 | 13822      |
+| No. closes                  | 11435      |
+| No. initial entries         | 6954       |
+| No. reentries               | 4920       |
+| No. unstuck entries         | 1948       |
+| No. unstuck closes          | 3371       |
+| No. normal closes           | 8064       |
+| Average n fills per day     | 25.9       |
+| Mean hours stuck            | 2.40806    |
+| Max hours stuck             | 86.1667    |
+| PNL sum                     | 1258.0     |
+| Profit sum                  | 5742.0     |
+| Loss sum                    | -4484.0    |
+| Fee sum                     | -202.4     |
+| Biggest pos size            | 103.17     |
+| Biggest pos cost            | 2622.0     |
+| Volume quote                | 2024040.0  |
++-----------------------------+------------+
