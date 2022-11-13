@@ -1,0 +1,44 @@
++----------------------------------------+
+|                Summary                 |
++-----------------------------+----------+
+| Metric                      | Value    |
++-----------------------------+----------+
+| Exchange                    | binance  |
+| Market type                 | futures  |
+| Symbol                      | TRXUSDT  |
+| No. days                    | 1001.66  |
+| Starting balance            | 1000.0   |
+|                             |          |
+| Long                        | True     |
+| ADG realized per exposure   | 0.108%   |
+| Final balance               | 2961.49  |
+| Final equity                | 2960.68  |
+| Net PNL + fees              | 1961.49  |
+| Total gain                  | 199.9%   |
+| Average daily gain          | 0.149%   |
+| DG mean std ratio           | 0.05388  |
+| Price action distance mean  | 0.068492 |
+| Price action distance std   | 0.16933  |
+| Price action distance max   | 1.2318   |
+| Closest bankruptcy          | 99.77%   |
+| Lowest equity/balance ratio | 0.4475   |
+| Equity/balance ratio std    | 0.1043   |
+| No. fills                   | 7676     |
+| No. entries                 | 4897     |
+| No. closes                  | 2779     |
+| No. initial entries         | 2643     |
+| No. reentries               | 2254     |
+| No. unstuck entries         | 0        |
+| No. unstuck closes          | 0        |
+| No. normal closes           | 2779     |
+| Average n fills per day     | 7.66     |
+| Mean hours stuck            | 5.03559  |
+| Max hours stuck             | 2560.92  |
+| PNL sum                     | 1999.0   |
+| Profit sum                  | 1999.0   |
+| Loss sum                    | 0.0      |
+| Fee sum                     | -37.51   |
+| Biggest pos size            | 83968.0  |
+| Biggest pos cost            | 2866.0   |
+| Volume quote                | 375057.0 |
++-----------------------------+----------+
