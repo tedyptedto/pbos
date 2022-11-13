@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | LTCUSDT   |
+| No. days                    | 1007.66   |
+| Starting balance            | 1000.0    |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.0757%   |
+| Final balance               | 2144.12   |
+| Final equity                | 2143.85   |
+| Net PNL + fees              | 1144.12   |
+| Total gain                  | 117.9%    |
+| Average daily gain          | 0.0976%   |
+| DG mean std ratio           | 0.04865   |
+| Price action distance mean  | 0.0329634 |
+| Price action distance std   | 0.069062  |
+| Price action distance max   | 1.09762   |
+| Closest bankruptcy          | 99.24%    |
+| Lowest equity/balance ratio | 0.4761    |
+| Equity/balance ratio std    | 0.04806   |
+| No. fills                   | 9941      |
+| No. entries                 | 5654      |
+| No. closes                  | 4287      |
+| No. initial entries         | 4068      |
+| No. reentries               | 1586      |
+| No. unstuck entries         | 0         |
+| No. unstuck closes          | 0         |
+| No. normal closes           | 4287      |
+| Average n fills per day     | 9.87      |
+| Mean hours stuck            | 3.05082   |
+| Max hours stuck             | 1173.25   |
+| PNL sum                     | 1179.0    |
+| Profit sum                  | 1179.0    |
+| Loss sum                    | 0.0       |
+| Fee sum                     | -34.47    |
+| Biggest pos size            | 39.9      |
+| Biggest pos cost            | 2026.0    |
+| Volume quote                | 344699.0  |
++-----------------------------+-----------+
