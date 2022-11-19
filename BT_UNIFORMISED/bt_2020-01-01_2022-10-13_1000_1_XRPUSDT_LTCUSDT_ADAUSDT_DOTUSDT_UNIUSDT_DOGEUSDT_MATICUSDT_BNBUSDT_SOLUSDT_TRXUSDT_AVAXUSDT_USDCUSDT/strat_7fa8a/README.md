@@ -1,0 +1,1 @@
+Strategy come from : /configs/JohnKearney1/PassivBot-Configurations-main/v5.8/2022-11-16_recurv_118symbols_683days.json
