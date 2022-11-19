@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm/recursive/longonly_NOAU_25maxstuck/NEARUSDT_20221116081822_3d04a/config.json
