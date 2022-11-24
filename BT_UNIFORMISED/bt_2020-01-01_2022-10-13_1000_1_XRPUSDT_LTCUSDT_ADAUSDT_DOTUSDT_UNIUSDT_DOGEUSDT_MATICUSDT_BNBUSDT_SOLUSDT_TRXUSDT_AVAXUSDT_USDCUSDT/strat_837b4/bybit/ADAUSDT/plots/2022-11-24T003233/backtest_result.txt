@@ -1,0 +1,44 @@
++----------------------------------------+
+|                Summary                 |
++-----------------------------+----------+
+| Metric                      | Value    |
++-----------------------------+----------+
+| Exchange                    | binance  |
+| Market type                 | futures  |
+| Symbol                      | ADAUSDT  |
+| No. days                    | 985.665  |
+| Starting balance            | 1000.0   |
+|                             |          |
+| Long                        | True     |
+| ADG realized per exposure   | 0.0905%  |
+| Final balance               | 2440.06  |
+| Final equity                | 1191.33  |
+| Net PNL + fees              | 1440.06  |
+| Total gain                  | 149.0%   |
+| Average daily gain          | 0.056%   |
+| DG mean std ratio           | 0.0207   |
+| Price action distance mean  | 0.113242 |
+| Price action distance std   | 0.225428 |
+| Price action distance max   | 1.0698   |
+| Closest bankruptcy          | 99.78%   |
+| Lowest equity/balance ratio | 0.4826   |
+| Equity/balance ratio std    | 0.1386   |
+| No. fills                   | 18703    |
+| No. entries                 | 10512    |
+| No. closes                  | 8191     |
+| No. initial entries         | 7818     |
+| No. reentries               | 2694     |
+| No. unstuck entries         | 0        |
+| No. unstuck closes          | 0        |
+| No. normal closes           | 8191     |
+| Average n fills per day     | 19.0     |
+| Mean hours stuck            | 4.05624  |
+| Max hours stuck             | 3765.05  |
+| PNL sum                     | 1490.0   |
+| Profit sum                  | 1490.0   |
+| Loss sum                    | 0.0      |
+| Fee sum                     | -49.65   |
+| Biggest pos size            | 30194.0  |
+| Biggest pos cost            | 2443.0   |
+| Volume quote                | 496529.0 |
++-----------------------------+----------+
