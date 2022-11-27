@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | MATICUSDT |
+| No. days                    | 720.707   |
+| Starting balance            | 1000.0    |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.123%    |
+| Final balance               | 2430.07   |
+| Final equity                | 2429.88   |
+| Net PNL + fees              | 1430.07   |
+| Total gain                  | 149.4%    |
+| Average daily gain          | 0.131%    |
+| DG mean std ratio           | 0.1054    |
+| Price action distance mean  | 0.013634  |
+| Price action distance std   | 0.0271276 |
+| Price action distance max   | 0.507875  |
+| Closest bankruptcy          | 99.79%    |
+| Lowest equity/balance ratio | 0.6628    |
+| Equity/balance ratio std    | 0.02162   |
+| No. fills                   | 44350     |
+| No. entries                 | 24698     |
+| No. closes                  | 19652     |
+| No. initial entries         | 19202     |
+| No. reentries               | 5496      |
+| No. unstuck entries         | 0         |
+| No. unstuck closes          | 0         |
+| No. normal closes           | 19652     |
+| Average n fills per day     | 61.5      |
+| Mean hours stuck            | 1.57503   |
+| Max hours stuck             | 237.833   |
+| PNL sum                     | 1494.0    |
+| Profit sum                  | 1494.0    |
+| Loss sum                    | 0.0       |
+| Fee sum                     | -63.56    |
+| Biggest pos size            | 69532.0   |
+| Biggest pos cost            | 2320.0    |
+| Volume quote                | 635553.0  |
++-----------------------------+-----------+
