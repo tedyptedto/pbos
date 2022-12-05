@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | XRPUSDT   |
+| No. days                    | 1010.65   |
+| Starting balance            | 1000.0    |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.111%    |
+| Final balance               | 3061.44   |
+| Final equity                | 3061.07   |
+| Net PNL + fees              | 2061.44   |
+| Total gain                  | 210.9%    |
+| Average daily gain          | 0.127%    |
+| DG mean std ratio           | 0.07334   |
+| Price action distance mean  | 0.0163349 |
+| Price action distance std   | 0.0313821 |
+| Price action distance max   | 0.675272  |
+| Closest bankruptcy          | 99.58%    |
+| Lowest equity/balance ratio | 0.5965    |
+| Equity/balance ratio std    | 0.02502   |
+| No. fills                   | 67127     |
+| No. entries                 | 28451     |
+| No. closes                  | 38676     |
+| No. initial entries         | 26193     |
+| No. reentries               | 2258      |
+| No. unstuck entries         | 0         |
+| No. unstuck closes          | 0         |
+| No. normal closes           | 38676     |
+| Average n fills per day     | 66.4      |
+| Mean hours stuck            | 1.20958   |
+| Max hours stuck             | 348.4     |
+| PNL sum                     | 2109.0    |
+| Profit sum                  | 2109.0    |
+| Loss sum                    | 0.0       |
+| Fee sum                     | -47.14    |
+| Biggest pos size            | 8068.0    |
+| Biggest pos cost            | 2841.0    |
+| Volume quote                | 471410.0  |
++-----------------------------+-----------+
