@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/recursive/btp_on_longshort_noau_nov27/DOGEUSDT_20221127222559_03745/config.json
