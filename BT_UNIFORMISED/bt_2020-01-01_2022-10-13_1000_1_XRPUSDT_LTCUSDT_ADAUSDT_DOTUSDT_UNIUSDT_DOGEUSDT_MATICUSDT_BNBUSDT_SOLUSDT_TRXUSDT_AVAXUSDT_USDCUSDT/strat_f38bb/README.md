@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/recursive/recursive_noau_longonly_0.1/LINKUSDT_20221129025800_82480/config.json
