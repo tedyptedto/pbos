@@ -1,0 +1,1 @@
+Strategy come from : /configs/DotCom/pb-configs-main/recursive_grid/recursive_single_long_noAU_2022_11_01/VETUSDT_20221202151945_4fcb5/config.json
