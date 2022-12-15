@@ -1,0 +1,1 @@
+Strategy come from : /configs/DotCom/pb-configs-main/recursive_grid/short/2022_12_10_recursive_single_short_noAU_20221201/HNTUSDT_20221210060158_3c75a/config.json
