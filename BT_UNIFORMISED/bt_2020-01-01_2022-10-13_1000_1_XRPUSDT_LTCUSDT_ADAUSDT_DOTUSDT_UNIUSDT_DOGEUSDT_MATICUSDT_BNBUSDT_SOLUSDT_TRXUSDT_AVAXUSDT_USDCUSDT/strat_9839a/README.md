@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/particle_swarm/recursive/pso_recurv_noau_longonly_1.0WE/DOGEUSDT_20221213152121_76032/config.json
