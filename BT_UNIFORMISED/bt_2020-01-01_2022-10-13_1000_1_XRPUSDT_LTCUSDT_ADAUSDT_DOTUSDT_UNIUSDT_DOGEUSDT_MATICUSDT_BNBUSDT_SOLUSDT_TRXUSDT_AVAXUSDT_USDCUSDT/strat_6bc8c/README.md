@@ -1,0 +1,1 @@
+Strategy come from : /configs/Flyingtoaster/passivbot_v5.8.0-main/configs/harmony/recursive/harmony_recurv_noau_longonly_1.0WE_bwtpoff/SUSHIUSDT_20221215024718_26945/config.json
